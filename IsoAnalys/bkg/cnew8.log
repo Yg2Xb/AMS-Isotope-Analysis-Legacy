@@ -1,0 +1,457 @@
+
+Processing rootlogon.C...
+Processing cal_bkghist_par8.cpp...
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      32.3976
+NDf                       =           53
+Edm                       =  3.71091e-13
+NCalls                    =          613
+p0                        =     0.157309   +/-   0.00454095  
+p1                        =     0.142457   +/-   0.00325451  
+p2                        =     0.119397   +/-   0.00214106  
+p3                        =    0.0915658   +/-   0.00112181  
+p4                        =    0.0433388   +/-   0.000470173 
+p5                        =   0.00675428   +/-   6.15273e-05 
+p6                        =  0.000619926   +/-   5.64839e-06 
+p7                        =  0.000139338   +/-   1.44692e-06 
+p8                        =  1.61667e-05   +/-   2.17799e-07 
+p9                        =   1.5367e-06   +/-   3.99966e-08 
+p10                       =  4.25528e-07   +/-   1.50113e-08 
+p11                       =  6.65501e-08   +/-   5.18886e-09 
+p12                       =  6.09849e-10   +/-   1.08775e-08 
+Processing entry 0
+Processing entry 100000
+Processing entry 200000
+Processing entry 300000
+Processing entry 400000
+Processing entry 500000
+Processing entry 600000
+Processing entry 700000
+Processing entry 800000
+Processing entry 900000
+Processing entry 1000000
+Processing entry 1100000
+Processing entry 1200000
+Processing entry 1300000
+Processing entry 1400000
+Processing entry 1500000
+Processing entry 1600000
+Processing entry 1700000
+Processing entry 1800000
+Processing entry 1900000
+Processing entry 2000000
+Processing entry 2100000
+Processing entry 2200000
+Processing entry 2300000
+Processing entry 2400000
+Processing entry 2500000
+Processing entry 2600000
+Processing entry 2700000
+Processing entry 2800000
+Processing entry 2900000
+Processing entry 3000000
+Processing entry 3100000
+Processing entry 3200000
+Processing entry 3300000
+Processing entry 3400000
+Processing entry 3500000
+Processing entry 3600000
+Processing entry 3700000
+Processing entry 3800000
+Processing entry 3900000
+Processing entry 4000000
+Processing entry 4100000
+Processing entry 4200000
+Processing entry 4300000
+Processing entry 4400000
+Processing entry 4500000
+Processing entry 4600000
+Processing entry 4700000
+Processing entry 4800000
+Processing entry 4900000
+Processing entry 5000000
+Processing entry 5100000
+Processing entry 5200000
+Processing entry 5300000
+Processing entry 5400000
+Processing entry 5500000
+Processing entry 5600000
+Processing entry 5700000
+Processing entry 5800000
+Processing entry 5900000
+Processing entry 6000000
+Processing entry 6100000
+Processing entry 6200000
+Processing entry 6300000
+Processing entry 6400000
+Processing entry 6500000
+Processing entry 6600000
+Processing entry 6700000
+Processing entry 6800000
+Processing entry 6900000
+Processing entry 7000000
+Processing entry 7100000
+Processing entry 7200000
+Processing entry 7300000
+Processing entry 7400000
+Processing entry 7500000
+Processing entry 7600000
+Processing entry 7700000
+Processing entry 7800000
+Processing entry 7900000
+Processing entry 8000000
+Processing entry 8100000
+Processing entry 8200000
+Processing entry 8300000
+Processing entry 8400000
+Processing entry 8500000
+Processing entry 8600000
+Processing entry 8700000
+Processing entry 8800000
+Processing entry 8900000
+Processing entry 9000000
+Processing entry 9100000
+Processing entry 9200000
+Processing entry 9300000
+Processing entry 9400000
+Processing entry 9500000
+Processing entry 9600000
+Processing entry 9700000
+Processing entry 9800000
+Processing entry 9900000
+Processing entry 10000000
+Processing entry 10100000
+Processing entry 10200000
+Processing entry 10300000
+Processing entry 10400000
+Processing entry 10500000
+Processing entry 10600000
+Processing entry 10700000
+Processing entry 10800000
+Processing entry 10900000
+Processing entry 11000000
+Processing entry 11100000
+Processing entry 11200000
+Processing entry 11300000
+Processing entry 11400000
+Processing entry 11500000
+Processing entry 11600000
+Processing entry 11700000
+Processing entry 11800000
+Processing entry 11900000
+Processing entry 12000000
+Processing entry 12100000
+Processing entry 12200000
+Processing entry 12300000
+Processing entry 12400000
+Processing entry 12500000
+Processing entry 12600000
+Processing entry 12700000
+Processing entry 12800000
+Processing entry 12900000
+Processing entry 13000000
+Processing entry 13100000
+Processing entry 13200000
+Processing entry 13300000
+Processing entry 13400000
+Processing entry 13500000
+Processing entry 13600000
+Processing entry 13700000
+Processing entry 13800000
+Processing entry 13900000
+Processing entry 14000000
+Processing entry 14100000
+Processing entry 14200000
+Processing entry 14300000
+Processing entry 14400000
+Processing entry 14500000
+Processing entry 14600000
+Processing entry 14700000
+Processing entry 14800000
+Processing entry 14900000
+Processing entry 15000000
+Processing entry 15100000
+Processing entry 15200000
+Processing entry 15300000
+Saving results to: /eos/ams/user/z/zuhao/yanzx/Isotope/Bkg/Beryllium7_bkg_analysis_mtrpar8.root
+Completed analysis for Beryllium7
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      32.3976
+NDf                       =           53
+Edm                       =  3.71091e-13
+NCalls                    =          613
+p0                        =     0.157309   +/-   0.00454095  
+p1                        =     0.142457   +/-   0.00325451  
+p2                        =     0.119397   +/-   0.00214106  
+p3                        =    0.0915658   +/-   0.00112181  
+p4                        =    0.0433388   +/-   0.000470173 
+p5                        =   0.00675428   +/-   6.15273e-05 
+p6                        =  0.000619926   +/-   5.64839e-06 
+p7                        =  0.000139338   +/-   1.44692e-06 
+p8                        =  1.61667e-05   +/-   2.17799e-07 
+p9                        =   1.5367e-06   +/-   3.99966e-08 
+p10                       =  4.25528e-07   +/-   1.50113e-08 
+p11                       =  6.65501e-08   +/-   5.18886e-09 
+p12                       =  6.09849e-10   +/-   1.08775e-08 
+Processing entry 0
+Processing entry 100000
+Processing entry 200000
+Processing entry 300000
+Processing entry 400000
+Processing entry 500000
+Processing entry 600000
+Processing entry 700000
+Processing entry 800000
+Processing entry 900000
+Processing entry 1000000
+Processing entry 1100000
+Processing entry 1200000
+Processing entry 1300000
+Processing entry 1400000
+Processing entry 1500000
+Processing entry 1600000
+Processing entry 1700000
+Processing entry 1800000
+Processing entry 1900000
+Processing entry 2000000
+Processing entry 2100000
+Processing entry 2200000
+Processing entry 2300000
+Processing entry 2400000
+Processing entry 2500000
+Processing entry 2600000
+Processing entry 2700000
+Processing entry 2800000
+Processing entry 2900000
+Processing entry 3000000
+Processing entry 3100000
+Processing entry 3200000
+Processing entry 3300000
+Processing entry 3400000
+Processing entry 3500000
+Processing entry 3600000
+Processing entry 3700000
+Processing entry 3800000
+Processing entry 3900000
+Processing entry 4000000
+Processing entry 4100000
+Processing entry 4200000
+Processing entry 4300000
+Processing entry 4400000
+Processing entry 4500000
+Processing entry 4600000
+Processing entry 4700000
+Processing entry 4800000
+Processing entry 4900000
+Processing entry 5000000
+Processing entry 5100000
+Processing entry 5200000
+Processing entry 5300000
+Processing entry 5400000
+Processing entry 5500000
+Processing entry 5600000
+Processing entry 5700000
+Processing entry 5800000
+Processing entry 5900000
+Processing entry 6000000
+Processing entry 6100000
+Processing entry 6200000
+Processing entry 6300000
+Processing entry 6400000
+Processing entry 6500000
+Processing entry 6600000
+Processing entry 6700000
+Processing entry 6800000
+Processing entry 6900000
+Processing entry 7000000
+Processing entry 7100000
+Processing entry 7200000
+Processing entry 7300000
+Processing entry 7400000
+Processing entry 7500000
+Processing entry 7600000
+Processing entry 7700000
+Processing entry 7800000
+Processing entry 7900000
+Processing entry 8000000
+Processing entry 8100000
+Processing entry 8200000
+Processing entry 8300000
+Processing entry 8400000
+Processing entry 8500000
+Processing entry 8600000
+Processing entry 8700000
+Processing entry 8800000
+Processing entry 8900000
+Processing entry 9000000
+Processing entry 9100000
+Processing entry 9200000
+Processing entry 9300000
+Processing entry 9400000
+Processing entry 9500000
+Processing entry 9600000
+Processing entry 9700000
+Processing entry 9800000
+Processing entry 9900000
+Processing entry 10000000
+Processing entry 10100000
+Processing entry 10200000
+Processing entry 10300000
+Processing entry 10400000
+Processing entry 10500000
+Processing entry 10600000
+Processing entry 10700000
+Processing entry 10800000
+Processing entry 10900000
+Processing entry 11000000
+Processing entry 11100000
+Processing entry 11200000
+Processing entry 11300000
+Processing entry 11400000
+Processing entry 11500000
+Saving results to: /eos/ams/user/z/zuhao/yanzx/Isotope/Bkg/Beryllium9_bkg_analysis_mtrpar8.root
+Completed analysis for Beryllium9
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      32.3976
+NDf                       =           53
+Edm                       =  3.71091e-13
+NCalls                    =          613
+p0                        =     0.157309   +/-   0.00454095  
+p1                        =     0.142457   +/-   0.00325451  
+p2                        =     0.119397   +/-   0.00214106  
+p3                        =    0.0915658   +/-   0.00112181  
+p4                        =    0.0433388   +/-   0.000470173 
+p5                        =   0.00675428   +/-   6.15273e-05 
+p6                        =  0.000619926   +/-   5.64839e-06 
+p7                        =  0.000139338   +/-   1.44692e-06 
+p8                        =  1.61667e-05   +/-   2.17799e-07 
+p9                        =   1.5367e-06   +/-   3.99966e-08 
+p10                       =  4.25528e-07   +/-   1.50113e-08 
+p11                       =  6.65501e-08   +/-   5.18886e-09 
+p12                       =  6.09849e-10   +/-   1.08775e-08 
+Processing entry 0
+Processing entry 100000
+Processing entry 200000
+Processing entry 300000
+Processing entry 400000
+Processing entry 500000
+Processing entry 600000
+Processing entry 700000
+Processing entry 800000
+Processing entry 900000
+Processing entry 1000000
+Processing entry 1100000
+Processing entry 1200000
+Processing entry 1300000
+Processing entry 1400000
+Processing entry 1500000
+Processing entry 1600000
+Processing entry 1700000
+Processing entry 1800000
+Processing entry 1900000
+Processing entry 2000000
+Processing entry 2100000
+Processing entry 2200000
+Processing entry 2300000
+Processing entry 2400000
+Processing entry 2500000
+Processing entry 2600000
+Processing entry 2700000
+Processing entry 2800000
+Processing entry 2900000
+Processing entry 3000000
+Processing entry 3100000
+Processing entry 3200000
+Processing entry 3300000
+Processing entry 3400000
+Processing entry 3500000
+Processing entry 3600000
+Processing entry 3700000
+Processing entry 3800000
+Processing entry 3900000
+Processing entry 4000000
+Processing entry 4100000
+Processing entry 4200000
+Processing entry 4300000
+Processing entry 4400000
+Processing entry 4500000
+Processing entry 4600000
+Processing entry 4700000
+Processing entry 4800000
+Processing entry 4900000
+Processing entry 5000000
+Processing entry 5100000
+Processing entry 5200000
+Processing entry 5300000
+Processing entry 5400000
+Processing entry 5500000
+Processing entry 5600000
+Processing entry 5700000
+Processing entry 5800000
+Processing entry 5900000
+Processing entry 6000000
+Processing entry 6100000
+Processing entry 6200000
+Processing entry 6300000
+Processing entry 6400000
+Processing entry 6500000
+Processing entry 6600000
+Processing entry 6700000
+Processing entry 6800000
+Processing entry 6900000
+Processing entry 7000000
+Processing entry 7100000
+Processing entry 7200000
+Processing entry 7300000
+Processing entry 7400000
+Processing entry 7500000
+Processing entry 7600000
+Processing entry 7700000
+Processing entry 7800000
+Processing entry 7900000
+Processing entry 8000000
+Processing entry 8100000
+Processing entry 8200000
+Processing entry 8300000
+Processing entry 8400000
+Processing entry 8500000
+Processing entry 8600000
+Processing entry 8700000
+Processing entry 8800000
+Processing entry 8900000
+Processing entry 9000000
+Processing entry 9100000
+Processing entry 9200000
+Processing entry 9300000
+Processing entry 9400000
+Processing entry 9500000
+Processing entry 9600000
+Processing entry 9700000
+Processing entry 9800000
+Processing entry 9900000
+Processing entry 10000000
+Processing entry 10100000
+Processing entry 10200000
+Processing entry 10300000
+Processing entry 10400000
+Processing entry 10500000
+Processing entry 10600000
+Processing entry 10700000
+Processing entry 10800000
+Processing entry 10900000
+Processing entry 11000000
+Processing entry 11100000
+Processing entry 11200000
+Processing entry 11300000
+Processing entry 11400000
+Processing entry 11500000
+Processing entry 11600000
+Processing entry 11700000
+Processing entry 11800000
+Processing entry 11900000
+Processing entry 12000000
+Saving results to: /eos/ams/user/z/zuhao/yanzx/Isotope/Bkg/Beryllium10_bkg_analysis_mtrpar8.root
+Completed analysis for Beryllium10

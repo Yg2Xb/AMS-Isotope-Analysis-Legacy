@@ -1,0 +1,243 @@
+
+Processing rootlogon.C...
+Processing CalFragBe.cpp...
+BtoBe_SDIATBeBcut
+TOF
+3668
+0.61 211969
+0.61 0.000445642
+Energy bin: 0.61 - 0.86 GeV/n
+Detector: TOF
+Total Be and B: 211969 +/- 460.401
+Raw Be Count: 3668
+Contamination Be: 94.4623 +/- 9.62253
+Boron count: 211373 +/- 459.74
+B10 contribution to Be7: 68.3668 +/- 0.148699
+B10 contribution to Be9: 512.537 +/- 1.11478
+Be10 from B11 / Total Be from B11: 0.626927 +/- 0.0430937
+Be7 fragmented: 412.559 +/- 30.7711 (88.5166%)
+Be9 fragmented: 1284.82 +/- 89.7609 (97.4894%)
+Be10 fragmented: 1876.16 +/- 96.9452 (99.5832%)
+-----------------------------------------------------
+TOF
+3787
+0.86 243675
+0.86 0.000453185
+Energy bin: 0.86 - 1.17 GeV/n
+Detector: TOF
+Total Be and B: 243675 +/- 493.634
+Raw Be Count: 3787
+Contamination Be: 110.43 +/- 10.4026
+Boron count: 243060 +/- 492.999
+B10 contribution to Be7: 77.9442 +/- 0.158094
+B10 contribution to Be9: 533.802 +/- 1.08271
+Be10 from B11 / Total Be from B11: 0.698813 +/- 0.0459832
+Be7 fragmented: 483.567 +/- 32.753 (88.317%)
+Be9 fragmented: 1051.27 +/- 91.5861 (96.4915%)
+Be10 fragmented: 2141.74 +/- 101.193 (99.6169%)
+-----------------------------------------------------
+NaF
+599
+1.17 44789
+1.17 0.000333515
+Energy bin: 1.17 - 1.55 GeV/n
+Detector: NaF
+Total Be and B: 44789 +/- 211.634
+Raw Be Count: 599
+Contamination Be: 14.9378 +/- 3.829
+Boron count: 44696.6 +/- 211.412
+B10 contribution to Be7: 6.52295 +/- 0.0308531
+B10 contribution to Be9: 80.2474 +/- 0.379564
+Be10 from B11 / Total Be from B11: 0.730092 +/- 0.131417
+Be7 fragmented: 96.8968 +/- 16.2199 (91.7022%)
+Be9 fragmented: 124.097 +/- 40.9724 (96.2694%)
+Be10 fragmented: 363.069 +/- 45.9425 (99.6265%)
+-----------------------------------------------------
+NaF
+522
+1.55 41798
+1.55 0.000409922
+Energy bin: 1.55 - 2.01 GeV/n
+Detector: NaF
+Total Be and B: 41798 +/- 204.446
+Raw Be Count: 522
+Contamination Be: 17.1339 +/- 4.10153
+Boron count: 41719.5 +/- 204.25
+B10 contribution to Be7: 4.83273 +/- 0.02366
+B10 contribution to Be9: 68.0657 +/- 0.333236
+Be10 from B11 / Total Be from B11: 0.735377 +/- 0.131349
+Be7 fragmented: 96.4465 +/- 15.0558 (90.6311%)
+Be9 fragmented: 90.7606 +/- 34.793 (93.9042%)
+Be10 fragmented: 317.659 +/- 39.8109 (99.6011%)
+-----------------------------------------------------
+NaF
+462
+2.01 40320
+2.01 0.000557773
+Energy bin: 2.01 - 2.57 GeV/n
+Detector: NaF
+Total Be and B: 40320 +/- 200.798
+Raw Be Count: 462
+Contamination Be: 22.4894 +/- 4.69586
+Boron count: 40239.6 +/- 200.594
+B10 contribution to Be7: 7.12967 +/- 0.0355414
+B10 contribution to Be9: 66.0354 +/- 0.329186
+Be10 from B11 / Total Be from B11: 0.760222 +/- 0.139117
+Be7 fragmented: 75.2178 +/- 13.1715 (84.9192%)
+Be9 fragmented: 85.7888 +/- 30.6626 (92.1762%)
+Be10 fragmented: 278.504 +/- 35.1872 (99.3402%)
+-----------------------------------------------------
+NaF
+371
+2.57 36097
+2.57 0.000640884
+Energy bin: 2.57 - 3.23 GeV/n
+Detector: NaF
+Total Be and B: 36097 +/- 189.992
+Raw Be Count: 371
+Contamination Be: 23.134 +/- 4.76274
+Boron count: 36024.8 +/- 189.798
+B10 contribution to Be7: 6.63187 +/- 0.0349403
+B10 contribution to Be9: 46.5552 +/- 0.245279
+Be10 from B11 / Total Be from B11: 0.642572 +/- 0.142099
+Be7 fragmented: 44.8682 +/- 11.1962 (76.5497%)
+Be9 fragmented: 113.645 +/- 28.3556 (93.9554%)
+Be10 fragmented: 189.352 +/- 31.1349 (98.9146%)
+-----------------------------------------------------
+AGL
+1665
+3.23 165998
+3.23 0.0010945
+Energy bin: 3.23 - 4 GeV/n
+Detector: AGL
+Total Be and B: 165998 +/- 407.429
+Raw Be Count: 1665
+Contamination Be: 181.685 +/- 13.3544
+Boron count: 165620 +/- 406.955
+B10 contribution to Be7: 19.4168 +/- 0.0477104
+B10 contribution to Be9: 276.768 +/- 0.680067
+Be10 from B11 / Total Be from B11: 0.721941 +/- 0.0708127
+Be7 fragmented: 201.424 +/- 23.9651 (64.755%)
+Be9 fragmented: 424.853 +/- 52.4677 (88.1876%)
+Be10 fragmented: 857.038 +/- 59.2062 (98.2634%)
+-----------------------------------------------------
+AGL
+1210
+4 137302
+4 0.000863874
+Energy bin: 4 - 4.91 GeV/n
+Detector: AGL
+Total Be and B: 137302 +/- 370.543
+Raw Be Count: 1210
+Contamination Be: 118.612 +/- 10.7914
+Boron count: 137033 +/- 370.173
+B10 contribution to Be7: 13.9497 +/- 0.0376831
+B10 contribution to Be9: 190.307 +/- 0.514085
+Be10 from B11 / Total Be from B11: 0.64841 +/- 0.0791042
+Be7 fragmented: 194.387 +/- 21.695 (72.9019%)
+Be9 fragmented: 321.776 +/- 46.4055 (89.9667%)
+Be10 fragmented: 575.225 +/- 51.8671 (98.2121%)
+-----------------------------------------------------
+AGL
+1025
+4.91 114825
+4.91 0.000849666
+Energy bin: 4.91 - 5.99 GeV/n
+Detector: AGL
+Total Be and B: 114825 +/- 338.858
+Raw Be Count: 1025
+Contamination Be: 97.5629 +/- 9.78607
+Boron count: 114611 +/- 338.537
+B10 contribution to Be7: 11.6245 +/- 0.0343362
+B10 contribution to Be9: 168.338 +/- 0.497236
+Be10 from B11 / Total Be from B11: 0.604707 +/- 0.0829724
+Be7 fragmented: 138.421 +/- 19.2612 (70.0183%)
+Be9 fragmented: 337.014 +/- 43.07 (91.9255%)
+Be10 fragmented: 452.003 +/- 47.1213 (98.1139%)
+-----------------------------------------------------
+AGL
+736
+5.99 91652
+5.99 0.000793611
+Energy bin: 5.99 - 7.18 GeV/n
+Detector: AGL
+Total Be and B: 91652 +/- 302.741
+Raw Be Count: 736
+Contamination Be: 72.736 +/- 8.45154
+Boron count: 91489.6 +/- 302.468
+B10 contribution to Be7: 35.0805 +/- 0.115977
+B10 contribution to Be9: 131.186 +/- 0.433705
+Be10 from B11 / Total Be from B11: 0.554072 +/- 0.108633
+Be7 fragmented: 131.938 +/- 17.9318 (74.7776%)
+Be9 fragmented: 255.953 +/- 39.279 (92.1144%)
+Be10 fragmented: 275.373 +/- 42.3359 (97.7557%)
+-----------------------------------------------------
+AGL
+635
+7.18 83613
+7.18 0.000724413
+Energy bin: 7.18 - 8.6 GeV/n
+Detector: AGL
+Total Be and B: 83613 +/- 289.159
+Raw Be Count: 635
+Contamination Be: 60.5703 +/- 7.71001
+Boron count: 83477.9 +/- 288.921
+B10 contribution to Be7: 35.754 +/- 0.123746
+B10 contribution to Be9: 117.728 +/- 0.407463
+Be10 from B11 / Total Be from B11: 0.534858 +/- 0.124162
+Be7 fragmented: 134.401 +/- 18.1721 (78.3305%)
+Be9 fragmented: 214.882 +/- 38.3113 (92.5138%)
+Be10 fragmented: 225.147 +/- 41.5221 (97.4038%)
+-----------------------------------------------------
+AGL
+485
+8.6 71484
+8.6 0.000956173
+Energy bin: 8.6 - 10.25 GeV/n
+Detector: AGL
+Total Be and B: 71484 +/- 267.365
+Raw Be Count: 485
+Contamination Be: 68.3511 +/- 8.18922
+Boron count: 71355.9 +/- 267.121
+B10 contribution to Be7: 27.6459 +/- 0.103492
+B10 contribution to Be9: 100.706 +/- 0.376993
+Be10 from B11 / Total Be from B11: 0.565363 +/- 0.175733
+Be7 fragmented: 64.1304 +/- 15.3914 (60.2059%)
+Be9 fragmented: 189.526 +/- 37.3834 (90.6056%)
+Be10 fragmented: 162.993 +/- 39.3591 (96.2718%)
+-----------------------------------------------------
+AGL
+347
+10.25 56883
+10.25 0.000298418
+Energy bin: 10.25 - 12.13 GeV/n
+Detector: AGL
+Total Be and B: 56883 +/- 238.502
+Raw Be Count: 347
+Contamination Be: 16.9749 +/- 4.08267
+Boron count: 56817.1 +/- 238.361
+B10 contribution to Be7: 17.3371 +/- 0.0727332
+B10 contribution to Be9: 52.5859 +/- 0.22061
+Be10 from B11 / Total Be from B11: 0.556826 +/- 0.186134
+Be7 fragmented: 63.0769 +/- 13.2228 (85.6902%)
+Be9 fragmented: 122.117 +/- 35.7518 (96.2278%)
+Be10 fragmented: 144.832 +/- 38.0165 (98.8707%)
+-----------------------------------------------------
+AGL
+423
+12.13 70672
+12.13 0.000828581
+Energy bin: 12.13 - 16.38 GeV/n
+Detector: AGL
+Total Be and B: 70672 +/- 265.842
+Raw Be Count: 423
+Contamination Be: 58.5575 +/- 7.58339
+Boron count: 70549.3 +/- 265.607
+B10 contribution to Be7: 23.0014 +/- 0.0865966
+B10 contribution to Be9: 63.0997 +/- 0.23756
+Be10 from B11 / Total Be from B11: 0.705727 +/- 0.282119
+Be7 fragmented: 88.5846 +/- 18.8876 (70.6075%)
+Be9 fragmented: 79.425 +/- 52.1877 (83.4402%)
+Be10 fragmented: 196.433 +/- 55.6064 (97.0751%)
+-----------------------------------------------------
+Results saved to root://eosams.cern.ch//eos/ams/user/z/zuhao/yanzx/Isotope/IsoResults/IssValidateL12/ISS_FragmentBer_MassFitAnalysis_unb_perfectQfit.root

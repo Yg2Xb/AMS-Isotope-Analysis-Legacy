@@ -1,0 +1,3092 @@
+
+Processing cal_beAcc.cpp...
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      32.3976
+NDf                       =           53
+Edm                       =  3.71091e-13
+NCalls                    =          613
+p0                        =     0.157309   +/-   0.00454095  
+p1                        =     0.142457   +/-   0.00325451  
+p2                        =     0.119397   +/-   0.00214106  
+p3                        =    0.0915658   +/-   0.00112181  
+p4                        =    0.0433388   +/-   0.000470173 
+p5                        =   0.00675428   +/-   6.15273e-05 
+p6                        =  0.000619926   +/-   5.64839e-06 
+p7                        =  0.000139338   +/-   1.44692e-06 
+p8                        =  1.61667e-05   +/-   2.17799e-07 
+p9                        =   1.5367e-06   +/-   3.99966e-08 
+p10                       =  4.25528e-07   +/-   1.50113e-08 
+p11                       =  6.65501e-08   +/-   5.18886e-09 
+p12                       =  6.09849e-10   +/-   1.08775e-08 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      32.3976
+NDf                       =           53
+Edm                       =  3.71091e-13
+NCalls                    =          613
+p0                        =     0.157309   +/-   0.00454095  
+p1                        =     0.142457   +/-   0.00325451  
+p2                        =     0.119397   +/-   0.00214106  
+p3                        =    0.0915658   +/-   0.00112181  
+p4                        =    0.0433388   +/-   0.000470173 
+p5                        =   0.00675428   +/-   6.15273e-05 
+p6                        =  0.000619926   +/-   5.64839e-06 
+p7                        =  0.000139338   +/-   1.44692e-06 
+p8                        =  1.61667e-05   +/-   2.17799e-07 
+p9                        =   1.5367e-06   +/-   3.99966e-08 
+p10                       =  4.25528e-07   +/-   1.50113e-08 
+p11                       =  6.65501e-08   +/-   5.18886e-09 
+p12                       =  6.09849e-10   +/-   1.08775e-08 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      32.3976
+NDf                       =           53
+Edm                       =  3.71091e-13
+NCalls                    =          613
+p0                        =     0.157309   +/-   0.00454095  
+p1                        =     0.142457   +/-   0.00325451  
+p2                        =     0.119397   +/-   0.00214106  
+p3                        =    0.0915658   +/-   0.00112181  
+p4                        =    0.0433388   +/-   0.000470173 
+p5                        =   0.00675428   +/-   6.15273e-05 
+p6                        =  0.000619926   +/-   5.64839e-06 
+p7                        =  0.000139338   +/-   1.44692e-06 
+p8                        =  1.61667e-05   +/-   2.17799e-07 
+p9                        =   1.5367e-06   +/-   3.99966e-08 
+p10                       =  4.25528e-07   +/-   1.50113e-08 
+p11                       =  6.65501e-08   +/-   5.18886e-09 
+p12                       =  6.09849e-10   +/-   1.08775e-08 
+Processing Be7 entry 0
+Processing Be7 entry 400000
+Processing Be7 entry 800000
+Processing Be7 entry 1200000
+Processing Be7 entry 1600000
+Processing Be7 entry 2000000
+Processing Be7 entry 2400000
+Processing Be7 entry 2800000
+Processing Be7 entry 3200000
+Processing Be7 entry 3600000
+Processing Be7 entry 4000000
+Processing Be7 entry 4400000
+Processing Be7 entry 4800000
+Processing Be7 entry 5200000
+Processing Be7 entry 5600000
+Processing Be7 entry 6000000
+Processing Be7 entry 6400000
+Processing Be7 entry 6800000
+Processing Be7 entry 7200000
+Processing Be7 entry 7600000
+Processing Be7 entry 8000000
+Processing Be7 entry 8400000
+Processing Be7 entry 8800000
+Processing Be7 entry 9200000
+Processing Be7 entry 9600000
+Processing Be7 entry 10000000
+Processing Be7 entry 10400000
+Processing Be7 entry 10800000
+Processing Be7 entry 11200000
+Processing Be7 entry 11600000
+Processing Be7 entry 12000000
+Processing Be7 entry 12400000
+Processing Be7 entry 12800000
+Processing Be7 entry 13200000
+Processing Be7 entry 13600000
+Processing Be7 entry 14000000
+Processing Be7 entry 14400000
+Processing Be7 entry 14800000
+Processing Be7 entry 15200000
+Processing Be9 entry 0
+Processing Be9 entry 400000
+Processing Be9 entry 800000
+Processing Be9 entry 1200000
+Processing Be9 entry 1600000
+Processing Be9 entry 2000000
+Processing Be9 entry 2400000
+Processing Be9 entry 2800000
+Processing Be9 entry 3200000
+Processing Be9 entry 3600000
+Processing Be9 entry 4000000
+Processing Be9 entry 4400000
+Processing Be9 entry 4800000
+Processing Be9 entry 5200000
+Processing Be9 entry 5600000
+Processing Be9 entry 6000000
+Processing Be9 entry 6400000
+Processing Be9 entry 6800000
+Processing Be9 entry 7200000
+Processing Be9 entry 7600000
+Processing Be9 entry 8000000
+Processing Be9 entry 8400000
+Processing Be9 entry 8800000
+Processing Be9 entry 9200000
+Processing Be9 entry 9600000
+Processing Be9 entry 10000000
+Processing Be9 entry 10400000
+Processing Be9 entry 10800000
+Processing Be9 entry 11200000
+Processing Be10 entry 0
+Processing Be10 entry 400000
+Processing Be10 entry 800000
+Processing Be10 entry 1200000
+Processing Be10 entry 1600000
+Processing Be10 entry 2000000
+Processing Be10 entry 2400000
+Processing Be10 entry 2800000
+Processing Be10 entry 3200000
+Processing Be10 entry 3600000
+Processing Be10 entry 4000000
+Processing Be10 entry 4400000
+Processing Be10 entry 4800000
+Processing Be10 entry 5200000
+Processing Be10 entry 5600000
+Processing Be10 entry 6000000
+Processing Be10 entry 6400000
+Processing Be10 entry 6800000
+Processing Be10 entry 7200000
+Processing Be10 entry 7600000
+Processing Be10 entry 8000000
+Processing Be10 entry 8400000
+Processing Be10 entry 8800000
+Processing Be10 entry 9200000
+Processing Be10 entry 9600000
+Processing Be10 entry 10000000
+Processing Be10 entry 10400000
+Processing Be10 entry 10800000
+Processing Be10 entry 11200000
+Processing Be10 entry 11600000
+Processing Be10 entry 12000000
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+Warning in <TH1F::Add>: Histograms have different axis limits
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      47.1984
+NDf                       =           55
+Edm                       =  7.18923e-07
+NCalls                    =          324
+p0                        =    0.0660524   +/-   0.000303695 
+p1                        =    0.0693335   +/-   0.000110007 
+p2                        =    0.0660742   +/-   0.000102487 
+p3                        =    0.0637304   +/-   9.48819e-05 
+p4                        =    0.0622833   +/-   9.05948e-05 
+p5                        =    0.0618802   +/-   8.38974e-05 
+p6                        =    0.0617867   +/-   7.37759e-05 
+p7                        =      0.06181   +/-   6.36949e-05 
+p8                        =    0.0618717   +/-   5.33347e-05 
+p9                        =    0.0624187   +/-   5.22211e-05 
+p10                       =    0.0626537   +/-   5.86354e-05 
+p11                       =    0.0626254   +/-   5.22708e-05 
+p12                       =    0.0623576   +/-   5.41085e-05 
+p13                       =    0.0617813   +/-   7.65033e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      50.1491
+NDf                       =           51
+Edm                       =   2.3274e-06
+NCalls                    =          438
+p0                        =   0.00293851   +/-   2.94259e-05 
+p1                        =   0.00517051   +/-   4.40238e-05 
+p2                        =   0.00615082   +/-   3.91272e-05 
+p3                        =   0.00595335   +/-   3.72685e-05 
+p4                        =    0.0058467   +/-   3.00877e-05 
+p5                        =   0.00591509   +/-   2.63663e-05 
+p6                        =   0.00596217   +/-   2.31835e-05 
+p7                        =   0.00610571   +/-   2.10296e-05 
+p8                        =   0.00615232   +/-   1.7547e-05  
+p9                        =   0.00617902   +/-   1.75663e-05 
+p10                       =   0.00618422   +/-   1.86944e-05 
+p11                       =   0.00614697   +/-   1.63914e-05 
+p12                       =   0.00592762   +/-   1.66408e-05 
+p13                       =   0.00558887   +/-   2.33102e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      45.3797
+NDf                       =           44
+Edm                       =  4.17362e-06
+NCalls                    =          449
+p0                        =    0.0187706   +/-   0.00015125  
+p1                        =    0.0149713   +/-   0.000255882 
+p2                        =    0.0331258   +/-   9.65251e-05 
+p3                        =    0.0340786   +/-   9.19847e-05 
+p4                        =    0.0346854   +/-   7.42389e-05 
+p5                        =    0.0350518   +/-   5.32824e-05 
+p6                        =    0.0355002   +/-   4.22567e-05 
+p7                        =    0.0358207   +/-   4.31428e-05 
+p8                        =    0.0360039   +/-   4.53646e-05 
+p9                        =    0.0360088   +/-   3.97806e-05 
+p10                       =     0.035859   +/-   4.09e-05    
+p11                       =    0.0352259   +/-   5.82971e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      47.5059
+NDf                       =           55
+Edm                       =    7.548e-07
+NCalls                    =          324
+p0                        =    0.0660536   +/-   0.000303694 
+p1                        =    0.0693341   +/-   0.00011004  
+p2                        =    0.0660778   +/-   0.000102609 
+p3                        =    0.0637362   +/-   9.54031e-05 
+p4                        =    0.0622982   +/-   9.08767e-05 
+p5                        =    0.0618958   +/-   8.39203e-05 
+p6                        =    0.0618201   +/-   7.38073e-05 
+p7                        =    0.0618592   +/-   6.36515e-05 
+p8                        =    0.0619807   +/-   5.31782e-05 
+p9                        =    0.0626194   +/-   5.22181e-05 
+p10                       =    0.0629104   +/-   5.86077e-05 
+p11                       =    0.0629171   +/-   5.22693e-05 
+p12                       =    0.0627005   +/-   5.4085e-05  
+p13                       =    0.0622294   +/-   7.67621e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      50.5091
+NDf                       =           51
+Edm                       =  2.15513e-06
+NCalls                    =          438
+p0                        =   0.00293851   +/-   2.94259e-05 
+p1                        =    0.0051709   +/-   4.40262e-05 
+p2                        =   0.00615202   +/-   3.9131e-05  
+p3                        =   0.00595387   +/-   3.72708e-05 
+p4                        =   0.00584766   +/-   3.00903e-05 
+p5                        =   0.00591597   +/-   2.63691e-05 
+p6                        =   0.00596426   +/-   2.3188e-05  
+p7                        =   0.00611001   +/-   2.10393e-05 
+p8                        =   0.00616248   +/-   1.75646e-05 
+p9                        =   0.00619771   +/-   1.75911e-05 
+p10                       =   0.00620734   +/-   1.87288e-05 
+p11                       =   0.00617513   +/-   1.64307e-05 
+p12                       =   0.00596065   +/-   1.66875e-05 
+p13                       =     0.005629   +/-   2.33919e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      45.3323
+NDf                       =           44
+Edm                       =  4.20138e-06
+NCalls                    =          449
+p0                        =    0.0187737   +/-   0.000151271 
+p1                        =    0.0149715   +/-   0.00025592  
+p2                        =    0.0331349   +/-   9.65388e-05 
+p3                        =    0.0340914   +/-   9.20041e-05 
+p4                        =    0.0347054   +/-   7.42616e-05 
+p5                        =    0.0350723   +/-   5.33017e-05 
+p6                        =    0.0355483   +/-   4.22894e-05 
+p7                        =    0.0359117   +/-   4.31943e-05 
+p8                        =    0.0361167   +/-   4.54344e-05 
+p9                        =    0.0361384   +/-   3.98535e-05 
+p10                       =    0.0360052   +/-   4.09839e-05 
+p11                       =    0.0354172   +/-   5.84485e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =       83.341
+NDf                       =           55
+Edm                       =  1.01476e-05
+NCalls                    =          443
+p0                        =    0.0659077   +/-   0.000303143 
+p1                        =    0.0690498   +/-   0.000109639 
+p2                        =    0.0641754   +/-   0.000100809 
+p3                        =    0.0601745   +/-   9.37592e-05 
+p4                        =    0.0560443   +/-   8.74189e-05 
+p5                        =    0.0534054   +/-   7.77438e-05 
+p6                        =    0.0498529   +/-   6.59905e-05 
+p7                        =    0.0450151   +/-   5.61212e-05 
+p8                        =    0.0388328   +/-   4.32893e-05 
+p9                        =    0.0322978   +/-   4.06484e-05 
+p10                       =    0.0310029   +/-   4.20367e-05 
+p11                       =    0.0303786   +/-   3.64695e-05 
+p12                       =    0.0295715   +/-   3.71687e-05 
+p13                       =    0.0286021   +/-   5.26066e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      51.7935
+NDf                       =           51
+Edm                       =  1.48385e-05
+NCalls                    =          404
+p0                        =   0.00283946   +/-   2.89263e-05 
+p1                        =   0.00497208   +/-   4.30073e-05 
+p2                        =   0.00579555   +/-   3.78838e-05 
+p3                        =   0.00543373   +/-   3.56927e-05 
+p4                        =   0.00525003   +/-   2.83253e-05 
+p5                        =   0.00508181   +/-   2.41792e-05 
+p6                        =   0.00475257   +/-   2.04351e-05 
+p7                        =   0.00435478   +/-   1.74206e-05 
+p8                        =   0.00369524   +/-   1.33032e-05 
+p9                        =   0.00296533   +/-   1.23576e-05 
+p10                       =   0.00284081   +/-   1.27175e-05 
+p11                       =   0.00273993   +/-   1.08895e-05 
+p12                       =   0.00251022   +/-   1.085e-05   
+p13                       =   0.00226498   +/-   1.49182e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      65.6275
+NDf                       =           44
+Edm                       =  8.71766e-06
+NCalls                    =          421
+p0                        =    0.0161812   +/-   0.000139419 
+p1                        =    0.0130072   +/-   0.000234965 
+p2                        =    0.0272434   +/-   8.74749e-05 
+p3                        =     0.027345   +/-   8.21579e-05 
+p4                        =    0.0269774   +/-   6.48553e-05 
+p5                        =    0.0261675   +/-   4.57099e-05 
+p6                        =    0.0230157   +/-   3.35411e-05 
+p7                        =    0.0194192   +/-   3.20944e-05 
+p8                        =    0.0187595   +/-   3.28662e-05 
+p9                        =    0.0184975   +/-   2.85042e-05 
+p10                       =     0.018321   +/-   2.92359e-05 
+p11                       =    0.0177557   +/-   4.14469e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =       45.673
+NDf                       =           55
+Edm                       =  7.41892e-07
+NCalls                    =          323
+p0                        =    0.0663923   +/-   0.000304157 
+p1                        =    0.0694639   +/-   0.000110132 
+p2                        =    0.0661607   +/-   0.000102573 
+p3                        =    0.0638104   +/-   9.53689e-05 
+p4                        =    0.0623795   +/-   9.0927e-05  
+p5                        =    0.0619906   +/-   8.39903e-05 
+p6                        =    0.0619188   +/-   7.38805e-05 
+p7                        =    0.0620356   +/-   6.38025e-05 
+p8                        =    0.0624082   +/-   5.34443e-05 
+p9                        =    0.0631957   +/-   5.24948e-05 
+p10                       =    0.0635068   +/-   5.89205e-05 
+p11                       =    0.0634941   +/-   5.252e-05   
+p12                       =    0.0632781   +/-   5.43451e-05 
+p13                       =    0.0627569   +/-   7.70807e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      44.6054
+NDf                       =           51
+Edm                       =  7.34977e-06
+NCalls                    =          410
+p0                        =   0.00767449   +/-   4.7512e-05  
+p1                        =   0.00795759   +/-   5.22162e-05 
+p2                        =   0.00802694   +/-   4.47846e-05 
+p3                        =   0.00798044   +/-   4.30495e-05 
+p4                        =   0.00790662   +/-   3.49453e-05 
+p5                        =   0.00795644   +/-   3.0522e-05  
+p6                        =   0.00789284   +/-   2.66407e-05 
+p7                        =   0.00793935   +/-   2.39928e-05 
+p8                        =   0.00797906   +/-   2.00077e-05 
+p9                        =   0.00811111   +/-   2.01062e-05 
+p10                       =   0.00814643   +/-   2.14616e-05 
+p11                       =   0.00816017   +/-   1.89411e-05 
+p12                       =   0.00810643   +/-   1.94544e-05 
+p13                       =   0.00800363   +/-   2.77671e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      68.6473
+NDf                       =           44
+Edm                       =  4.74242e-06
+NCalls                    =          334
+p0                        =    0.0229298   +/-   0.000164296 
+p1                        =    0.0189383   +/-   0.00027692  
+p2                        =    0.0381403   +/-   9.46848e-05 
+p3                        =    0.0393406   +/-   9.13518e-05 
+p4                        =    0.0398401   +/-   7.89924e-05 
+p5                        =    0.0405515   +/-   5.70959e-05 
+p6                        =    0.0396985   +/-   4.36334e-05 
+p7                        =    0.0382827   +/-   4.42214e-05 
+p8                        =     0.038035   +/-   4.62721e-05 
+p9                        =    0.0377654   +/-   3.88712e-05 
+p10                       =    0.0371265   +/-   4.05183e-05 
+p11                       =    0.0363968   +/-   5.83375e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      45.7773
+NDf                       =           55
+Edm                       =  7.75585e-07
+NCalls                    =          323
+p0                        =    0.0663937   +/-   0.000304153 
+p1                        =    0.0694651   +/-   0.000110162 
+p2                        =    0.0661648   +/-   0.000102697 
+p3                        =    0.0638168   +/-   9.58337e-05 
+p4                        =    0.0623956   +/-   9.11871e-05 
+p5                        =    0.0620073   +/-   8.40147e-05 
+p6                        =    0.0619546   +/-   7.39121e-05 
+p7                        =    0.0620865   +/-   6.37762e-05 
+p8                        =     0.062526   +/-   5.32871e-05 
+p9                        =    0.0634137   +/-   5.25123e-05 
+p10                       =    0.0637898   +/-   5.88955e-05 
+p11                       =    0.0638139   +/-   5.25382e-05 
+p12                       =    0.0636612   +/-   5.43642e-05 
+p13                       =    0.0632517   +/-   7.73597e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      45.3597
+NDf                       =           51
+Edm                       =  6.45498e-06
+NCalls                    =          410
+p0                        =   0.00767448   +/-   4.7512e-05  
+p1                        =   0.00795834   +/-   5.22194e-05 
+p2                        =   0.00802838   +/-   4.47894e-05 
+p3                        =   0.00798268   +/-   4.30558e-05 
+p4                        =    0.0079091   +/-   3.49503e-05 
+p5                        =     0.007958   +/-   3.0527e-05  
+p6                        =    0.0078975   +/-   2.66491e-05 
+p7                        =   0.00794652   +/-   2.40074e-05 
+p8                        =   0.00799671   +/-   2.00336e-05 
+p9                        =   0.00814232   +/-   2.01425e-05 
+p10                       =   0.00818743   +/-   2.1514e-05  
+p11                       =   0.00820664   +/-   1.89982e-05 
+p12                       =   0.00816547   +/-   1.95249e-05 
+p13                       =   0.00807961   +/-   2.78928e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      68.3983
+NDf                       =           44
+Edm                       =  6.22858e-06
+NCalls                    =          448
+p0                        =    0.0229356   +/-   0.000164564 
+p1                        =    0.0189413   +/-   0.000277153 
+p2                        =    0.0381534   +/-   0.00010361  
+p3                        =    0.0393584   +/-   9.87894e-05 
+p4                        =    0.0398657   +/-   7.96462e-05 
+p5                        =    0.0405804   +/-   5.71297e-05 
+p6                        =    0.0397564   +/-   4.45422e-05 
+p7                        =    0.0383837   +/-   4.47662e-05 
+p8                        =    0.0381578   +/-   4.67415e-05 
+p9                        =    0.0379052   +/-   4.0765e-05  
+p10                       =    0.0372804   +/-   4.17343e-05 
+p11                       =    0.0365974   +/-   5.9436e-05  
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      83.2434
+NDf                       =           55
+Edm                       =   1.0097e-05
+NCalls                    =          443
+p0                        =    0.0662321   +/-   0.000303573 
+p1                        =     0.069171   +/-   0.000109732 
+p2                        =    0.0642442   +/-   0.000100867 
+p3                        =    0.0602339   +/-   9.3807e-05  
+p4                        =    0.0561083   +/-   8.74692e-05 
+p5                        =    0.0534745   +/-   7.77955e-05 
+p6                        =    0.0499233   +/-   6.60407e-05 
+p7                        =    0.0451052   +/-   5.61798e-05 
+p8                        =    0.0389321   +/-   4.33451e-05 
+p9                        =    0.0323834   +/-   4.07023e-05 
+p10                       =    0.0310891   +/-   4.20943e-05 
+p11                       =    0.0304572   +/-   3.65156e-05 
+p12                       =    0.0296414   +/-   3.7213e-05  
+p13                       =     0.028671   +/-   5.26701e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      45.5936
+NDf                       =           51
+Edm                       =  3.82166e-06
+NCalls                    =          410
+p0                        =   0.00742212   +/-   4.67238e-05 
+p1                        =   0.00761738   +/-   5.08736e-05 
+p2                        =   0.00751192   +/-   4.31862e-05 
+p3                        =   0.00721356   +/-   4.1023e-05  
+p4                        =   0.00702826   +/-   3.27193e-05 
+p5                        =   0.00673916   +/-   2.77769e-05 
+p6                        =   0.00619281   +/-   2.32775e-05 
+p7                        =   0.00554019   +/-   1.9637e-05  
+p8                        =   0.00465825   +/-   1.4924e-05  
+p9                        =   0.00371035   +/-   1.38228e-05 
+p10                       =   0.00353412   +/-   1.41898e-05 
+p11                       =   0.00340228   +/-   1.21464e-05 
+p12                       =   0.00314558   +/-   1.21485e-05 
+p13                       =   0.00291418   +/-   1.68767e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      82.9169
+NDf                       =           44
+Edm                       =  1.69283e-07
+NCalls                    =          448
+p0                        =     0.019632   +/-   0.000151249 
+p1                        =    0.0163126   +/-   0.000253778 
+p2                        =     0.031197   +/-   9.36183e-05 
+p3                        =    0.0313629   +/-   8.79473e-05 
+p4                        =    0.0308164   +/-   6.93301e-05 
+p5                        =    0.0300361   +/-   4.8831e-05  
+p6                        =    0.0255991   +/-   3.52462e-05 
+p7                        =    0.0207148   +/-   3.32113e-05 
+p8                        =    0.0197783   +/-   3.37767e-05 
+p9                        =    0.0193723   +/-   2.91339e-05 
+p10                       =    0.0189394   +/-   2.97491e-05 
+p11                       =    0.0183348   +/-   4.2127e-05  
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      47.9196
+NDf                       =           55
+Edm                       =  1.32211e-05
+NCalls                    =          441
+p0                        =    0.0661384   +/-   0.000304337 
+p1                        =    0.0693254   +/-   0.000110157 
+p2                        =    0.0660692   +/-   0.000102324 
+p3                        =    0.0637023   +/-   9.68234e-05 
+p4                        =    0.0622644   +/-   9.21688e-05 
+p5                        =    0.0618814   +/-   8.43541e-05 
+p6                        =    0.0617845   +/-   7.43314e-05 
+p7                        =    0.0618044   +/-   6.68811e-05 
+p8                        =    0.0618718   +/-   5.57211e-05 
+p9                        =    0.0624176   +/-   5.58162e-05 
+p10                       =    0.0626541   +/-   5.95837e-05 
+p11                       =    0.0626271   +/-   5.26083e-05 
+p12                       =    0.0623534   +/-   5.42292e-05 
+p13                       =    0.0618082   +/-   8.07275e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      49.9451
+NDf                       =           51
+Edm                       =  1.92383e-06
+NCalls                    =          439
+p0                        =   0.00296498   +/-   2.96941e-05 
+p1                        =   0.00517977   +/-   4.40642e-05 
+p2                        =   0.00615123   +/-   3.91292e-05 
+p3                        =   0.00595348   +/-   3.72695e-05 
+p4                        =   0.00584663   +/-   3.00887e-05 
+p5                        =   0.00591469   +/-   2.63734e-05 
+p6                        =   0.00596147   +/-   2.31945e-05 
+p7                        =    0.0061049   +/-   2.1042e-05  
+p8                        =   0.00615178   +/-   1.75627e-05 
+p9                        =    0.0061793   +/-   1.75819e-05 
+p10                       =   0.00618285   +/-   1.87153e-05 
+p11                       =   0.00614789   +/-   1.64368e-05 
+p12                       =    0.0059278   +/-   1.67376e-05 
+p13                       =   0.00560739   +/-   2.44559e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      45.4275
+NDf                       =           44
+Edm                       =  1.54137e-06
+NCalls                    =          447
+p0                        =     0.018505   +/-   0.000150335 
+p1                        =    0.0146264   +/-   0.000254876 
+p2                        =    0.0331145   +/-   9.65587e-05 
+p3                        =    0.0340718   +/-   9.20289e-05 
+p4                        =    0.0346843   +/-   7.42837e-05 
+p5                        =    0.0350464   +/-   5.33123e-05 
+p6                        =    0.0355009   +/-   4.22985e-05 
+p7                        =    0.0358199   +/-   4.31834e-05 
+p8                        =    0.0360054   +/-   4.5419e-05  
+p9                        =    0.0360124   +/-   3.98926e-05 
+p10                       =    0.0358584   +/-   4.11255e-05 
+p11                       =    0.0352493   +/-   6.10331e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      48.2319
+NDf                       =           55
+Edm                       =  1.37134e-05
+NCalls                    =          441
+p0                        =    0.0661396   +/-   0.000304339 
+p1                        =     0.069326   +/-   0.000110158 
+p2                        =    0.0660727   +/-   0.000102327 
+p3                        =    0.0637081   +/-   9.68294e-05 
+p4                        =    0.0622793   +/-   9.21789e-05 
+p5                        =     0.061897   +/-   8.43679e-05 
+p6                        =    0.0618179   +/-   7.43535e-05 
+p7                        =    0.0618535   +/-   6.69157e-05 
+p8                        =    0.0619806   +/-   5.57775e-05 
+p9                        =    0.0626183   +/-   5.58997e-05 
+p10                       =     0.062911   +/-   5.97021e-05 
+p11                       =    0.0629183   +/-   5.27345e-05 
+p12                       =    0.0626957   +/-   5.43777e-05 
+p13                       =    0.0622481   +/-   8.09977e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      50.4645
+NDf                       =           51
+Edm                       =  1.72061e-06
+NCalls                    =          439
+p0                        =   0.00296498   +/-   2.96941e-05 
+p1                        =   0.00518016   +/-   4.40667e-05 
+p2                        =   0.00615244   +/-   3.9133e-05  
+p3                        =     0.005954   +/-   3.72718e-05 
+p4                        =   0.00584758   +/-   3.00913e-05 
+p5                        =   0.00591558   +/-   2.63761e-05 
+p6                        =   0.00596355   +/-   2.31989e-05 
+p7                        =   0.00610917   +/-   2.10516e-05 
+p8                        =   0.00616191   +/-   1.75803e-05 
+p9                        =   0.00619803   +/-   1.76068e-05 
+p10                       =   0.00620596   +/-   1.87497e-05 
+p11                       =    0.0061759   +/-   1.6476e-05  
+p12                       =   0.00596077   +/-   1.67844e-05 
+p13                       =   0.00564685   +/-   2.45391e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      45.3239
+NDf                       =           44
+Edm                       =  1.67195e-06
+NCalls                    =          447
+p0                        =    0.0185081   +/-   0.000150356 
+p1                        =    0.0146267   +/-   0.000254914 
+p2                        =    0.0331237   +/-   9.65726e-05 
+p3                        =    0.0340845   +/-   9.20482e-05 
+p4                        =    0.0347044   +/-   7.43064e-05 
+p5                        =    0.0350669   +/-   5.33316e-05 
+p6                        =    0.0355489   +/-   4.23311e-05 
+p7                        =    0.0359109   +/-   4.32348e-05 
+p8                        =    0.0361183   +/-   4.54889e-05 
+p9                        =     0.036142   +/-   3.99655e-05 
+p10                       =    0.0360041   +/-   4.12091e-05 
+p11                       =    0.0354379   +/-   6.1188e-05  
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      83.2656
+NDf                       =           55
+Edm                       =  7.26138e-06
+NCalls                    =          442
+p0                        =     0.065996   +/-   0.000303432 
+p1                        =    0.0690377   +/-   0.000109692 
+p2                        =    0.0641643   +/-   0.000100813 
+p3                        =    0.0601469   +/-   9.37589e-05 
+p4                        =    0.0560296   +/-   8.74288e-05 
+p5                        =    0.0534123   +/-   7.77767e-05 
+p6                        =    0.0498586   +/-   6.604e-05   
+p7                        =    0.0450217   +/-   5.61693e-05 
+p8                        =    0.0388448   +/-   4.33435e-05 
+p9                        =    0.0322984   +/-   4.06889e-05 
+p10                       =    0.0310029   +/-   4.20881e-05 
+p11                       =    0.0303804   +/-   3.6571e-05  
+p12                       =    0.0295773   +/-   3.73821e-05 
+p13                       =    0.0286433   +/-   5.51089e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      51.5471
+NDf                       =           51
+Edm                       =  1.27887e-05
+NCalls                    =          404
+p0                        =   0.00286498   +/-   2.91895e-05 
+p1                        =   0.00498083   +/-   4.30455e-05 
+p2                        =   0.00579577   +/-   3.78852e-05 
+p3                        =     0.005434   +/-   3.56945e-05 
+p4                        =   0.00525025   +/-   2.83281e-05 
+p5                        =   0.00508215   +/-   2.41896e-05 
+p6                        =   0.00475285   +/-   2.04485e-05 
+p7                        =   0.00435586   +/-   1.74375e-05 
+p8                        =   0.00369666   +/-   1.33195e-05 
+p9                        =   0.00296532   +/-   1.23688e-05 
+p10                       =   0.00284043   +/-   1.27324e-05 
+p11                       =   0.00274021   +/-   1.09213e-05 
+p12                       =   0.00251208   +/-   1.09206e-05 
+p13                       =   0.00227541   +/-   1.56687e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      65.9849
+NDf                       =           44
+Edm                       =  7.05102e-06
+NCalls                    =          446
+p0                        =    0.0159538   +/-   0.000138588 
+p1                        =    0.0127095   +/-   0.000234062 
+p2                        =    0.0272378   +/-   8.75175e-05 
+p3                        =    0.0273443   +/-   8.22119e-05 
+p4                        =    0.0269815   +/-   6.49059e-05 
+p5                        =    0.0261686   +/-   4.57445e-05 
+p6                        =    0.0230215   +/-   3.35816e-05 
+p7                        =    0.0194198   +/-   3.21274e-05 
+p8                        =    0.0187598   +/-   3.29062e-05 
+p9                        =    0.0184984   +/-   2.85836e-05 
+p10                       =    0.0183231   +/-   2.93995e-05 
+p11                       =    0.0177766   +/-   4.34057e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      46.3672
+NDf                       =           55
+Edm                       =  1.33912e-05
+NCalls                    =          441
+p0                        =    0.0664764   +/-   0.000304788 
+p1                        =    0.0694552   +/-   0.000110258 
+p2                        =    0.0661559   +/-   0.000102394 
+p3                        =    0.0637822   +/-   9.68863e-05 
+p4                        =    0.0623605   +/-   9.22406e-05 
+p5                        =    0.0619919   +/-   8.44358e-05 
+p6                        =    0.0619167   +/-   7.44259e-05 
+p7                        =    0.0620297   +/-   6.70353e-05 
+p8                        =    0.0624079   +/-   5.59837e-05 
+p9                        =    0.0631946   +/-   5.61495e-05 
+p10                       =    0.0635074   +/-   5.99806e-05 
+p11                       =     0.063496   +/-   5.29769e-05 
+p12                       =    0.0632731   +/-   5.46261e-05 
+p13                       =    0.0627814   +/-   8.13505e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      43.9258
+NDf                       =           51
+Edm                       =  5.25525e-06
+NCalls                    =          409
+p0                        =   0.00767908   +/-   4.75498e-05 
+p1                        =   0.00795863   +/-   5.22228e-05 
+p2                        =    0.0080275   +/-   4.4787e-05  
+p3                        =   0.00798045   +/-   4.30507e-05 
+p4                        =   0.00790644   +/-   3.49469e-05 
+p5                        =   0.00795623   +/-   3.05313e-05 
+p6                        =   0.00789222   +/-   2.66553e-05 
+p7                        =   0.00793921   +/-   2.40086e-05 
+p8                        =   0.00797829   +/-   2.00252e-05 
+p9                        =   0.00811119   +/-   2.01236e-05 
+p10                       =   0.00814487   +/-   2.14853e-05 
+p11                       =   0.00816046   +/-   1.89915e-05 
+p12                       =   0.00810587   +/-   1.9561e-05  
+p13                       =   0.00801123   +/-   2.90745e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      68.1193
+NDf                       =           44
+Edm                       =  1.86842e-06
+NCalls                    =          334
+p0                        =    0.0226488   +/-   0.000163511 
+p1                        =    0.0185731   +/-   0.00027603  
+p2                        =    0.0381288   +/-   9.83586e-05 
+p3                        =    0.0393328   +/-   9.42781e-05 
+p4                        =    0.0398375   +/-   7.93522e-05 
+p5                        =    0.0405458   +/-   5.71285e-05 
+p6                        =    0.0397027   +/-   4.31024e-05 
+p7                        =    0.0382819   +/-   4.33489e-05 
+p8                        =    0.0380378   +/-   4.52981e-05 
+p9                        =     0.037769   +/-   3.79224e-05 
+p10                       =    0.0371288   +/-   4.03604e-05 
+p11                       =     0.036417   +/-   6.06595e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      46.4984
+NDf                       =           55
+Edm                       =   1.3934e-05
+NCalls                    =          441
+p0                        =    0.0664777   +/-   0.000304791 
+p1                        =    0.0694563   +/-   0.000110259 
+p2                        =    0.0661599   +/-   0.000102398 
+p3                        =    0.0637886   +/-   9.68929e-05 
+p4                        =    0.0623766   +/-   9.22516e-05 
+p5                        =    0.0620084   +/-   8.44506e-05 
+p6                        =    0.0619525   +/-   7.44491e-05 
+p7                        =    0.0620805   +/-   6.70714e-05 
+p8                        =    0.0625254   +/-   5.60447e-05 
+p9                        =    0.0634125   +/-   5.62401e-05 
+p10                       =    0.0637906   +/-   6.01098e-05 
+p11                       =    0.0638152   +/-   5.31149e-05 
+p12                       =    0.0636555   +/-   5.47903e-05 
+p13                       =    0.0632683   +/-   8.16477e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      44.7585
+NDf                       =           51
+Edm                       =  4.31582e-06
+NCalls                    =          412
+p0                        =   0.00767908   +/-   4.75498e-05 
+p1                        =   0.00795936   +/-   5.2226e-05  
+p2                        =   0.00802894   +/-   4.47918e-05 
+p3                        =   0.00798268   +/-   4.3057e-05  
+p4                        =   0.00790891   +/-   3.49519e-05 
+p5                        =    0.0079578   +/-   3.05363e-05 
+p6                        =   0.00789686   +/-   2.66636e-05 
+p7                        =   0.00794632   +/-   2.4023e-05  
+p8                        =   0.00799591   +/-   2.0051e-05  
+p9                        =   0.00814239   +/-   2.01599e-05 
+p10                       =   0.00818594   +/-   2.15377e-05 
+p11                       =   0.00820676   +/-   1.90485e-05 
+p12                       =   0.00816477   +/-   1.96315e-05 
+p13                       =   0.00808631   +/-   2.92031e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      67.7806
+NDf                       =           44
+Edm                       =  1.93786e-06
+NCalls                    =          334
+p0                        =    0.0226546   +/-   0.000163538 
+p1                        =    0.0185759   +/-   0.000276079 
+p2                        =    0.0381419   +/-   9.83735e-05 
+p3                        =    0.0393505   +/-   9.41651e-05 
+p4                        =    0.0398631   +/-   7.94239e-05 
+p5                        =    0.0405746   +/-   5.71556e-05 
+p6                        =    0.0397606   +/-   4.30592e-05 
+p7                        =    0.0383828   +/-   4.35328e-05 
+p8                        =    0.0381607   +/-   4.55035e-05 
+p9                        =    0.0379086   +/-   3.80251e-05 
+p10                       =    0.0372823   +/-   4.04542e-05 
+p11                       =    0.0366143   +/-   6.08386e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      83.2193
+NDf                       =           55
+Edm                       =  7.17849e-06
+NCalls                    =          442
+p0                        =    0.0663186   +/-   0.000303857 
+p1                        =    0.0691582   +/-   0.000109783 
+p2                        =    0.0642333   +/-   0.000100871 
+p3                        =    0.0602063   +/-   9.38067e-05 
+p4                        =    0.0560935   +/-   8.74791e-05 
+p5                        =    0.0534815   +/-   7.78285e-05 
+p6                        =    0.0499289   +/-   6.60901e-05 
+p7                        =    0.0451118   +/-   5.62279e-05 
+p8                        =    0.0389441   +/-   4.33995e-05 
+p9                        =    0.0323841   +/-   4.07429e-05 
+p10                       =    0.0310892   +/-   4.21459e-05 
+p11                       =    0.0304592   +/-   3.66173e-05 
+p12                       =    0.0296471   +/-   3.74266e-05 
+p13                       =     0.028713   +/-   5.51765e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      44.6974
+NDf                       =           51
+Edm                       =  3.74374e-06
+NCalls                    =          413
+p0                        =   0.00742612   +/-   4.67582e-05 
+p1                        =   0.00761807   +/-   5.08779e-05 
+p2                        =   0.00751212   +/-   4.31875e-05 
+p3                        =   0.00721376   +/-   4.1025e-05  
+p4                        =   0.00702835   +/-   3.27232e-05 
+p5                        =   0.00674018   +/-   2.77908e-05 
+p6                        =   0.00619376   +/-   2.32954e-05 
+p7                        =   0.00554212   +/-   1.96576e-05 
+p8                        =   0.00466025   +/-   1.49426e-05 
+p9                        =   0.00371023   +/-   1.3835e-05  
+p10                       =   0.00353363   +/-   1.42066e-05 
+p11                       =   0.00340226   +/-   1.21806e-05 
+p12                       =   0.00314819   +/-   1.22262e-05 
+p13                       =   0.00292234   +/-   1.77008e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      83.1387
+NDf                       =           44
+Edm                       =  7.16046e-06
+NCalls                    =          332
+p0                        =    0.0193918   +/-   0.000150408 
+p1                        =    0.0159977   +/-   0.000252881 
+p2                        =    0.0311906   +/-   9.22488e-05 
+p3                        =    0.0313619   +/-   8.41503e-05 
+p4                        =    0.0308197   +/-   6.84696e-05 
+p5                        =    0.0300378   +/-   4.88083e-05 
+p6                        =    0.0256081   +/-   3.44405e-05 
+p7                        =    0.0207154   +/-   3.24288e-05 
+p8                        =    0.0197792   +/-   3.16036e-05 
+p9                        =    0.0193731   +/-   2.62483e-05 
+p10                       =    0.0189432   +/-   2.79931e-05 
+p11                       =    0.0183552   +/-   4.21159e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      54.7252
+NDf                       =           53
+Edm                       =  8.03878e-06
+NCalls                    =          479
+p0                        =    0.0622141   +/-   0.000186119 
+p1                        =    0.0652246   +/-   0.000138059 
+p2                        =    0.0659046   +/-   0.000119454 
+p3                        =    0.0621123   +/-   0.000113171 
+p4                        =    0.0599812   +/-   0.000104403 
+p5                        =    0.0588139   +/-   9.9641e-05  
+p6                        =    0.0584684   +/-   9.11898e-05 
+p7                        =    0.0586493   +/-   8.04601e-05 
+p8                        =    0.0586965   +/-   7.25088e-05 
+p9                        =    0.0590174   +/-   6.04909e-05 
+p10                       =    0.0594898   +/-   6.05646e-05 
+p11                       =     0.059745   +/-   6.49629e-05 
+p12                       =     0.059838   +/-   5.93442e-05 
+p13                       =    0.0593653   +/-   6.13955e-05 
+p14                       =     0.059086   +/-   0.000163632 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      63.1378
+NDf                       =           49
+Edm                       =  8.15624e-07
+NCalls                    =          432
+p0                        =     0.001894   +/-   3.3419e-05  
+p1                        =   0.00514343   +/-   4.20787e-05 
+p2                        =   0.00577155   +/-   4.19386e-05 
+p3                        =   0.00563822   +/-   3.99712e-05 
+p4                        =   0.00562286   +/-   3.27798e-05 
+p5                        =   0.00558098   +/-   2.85128e-05 
+p6                        =   0.00578231   +/-   2.53597e-05 
+p7                        =   0.00586497   +/-   2.29374e-05 
+p8                        =    0.0059328   +/-   1.91263e-05 
+p9                        =   0.00579978   +/-   1.89786e-05 
+p10                       =   0.00582198   +/-   2.02856e-05 
+p11                       =   0.00575043   +/-   1.83147e-05 
+p12                       =   0.00544267   +/-   1.86648e-05 
+p13                       =   0.00517486   +/-   4.92574e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      44.9193
+NDf                       =           41
+Edm                       =  3.79441e-19
+NCalls                    =          387
+p0                        =    0.0221593   +/-   0.000347927 
+p1                        =     0.020067   +/-   0.000541695 
+p2                        =    0.0311811   +/-   0.000106333 
+p3                        =    0.0322655   +/-   9.99986e-05 
+p4                        =    0.0329449   +/-   8.06187e-05 
+p5                        =    0.0333771   +/-   5.79124e-05 
+p6                        =    0.0339402   +/-   4.594e-05   
+p7                        =    0.0340288   +/-   4.68017e-05 
+p8                        =    0.0341008   +/-   4.9357e-05  
+p9                        =    0.0340541   +/-   4.47457e-05 
+p10                       =    0.0334434   +/-   4.61585e-05 
+p11                       =    0.0328622   +/-   0.000122602 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      54.3754
+NDf                       =           53
+Edm                       =  8.23941e-06
+NCalls                    =          479
+p0                        =    0.0622211   +/-   0.000186135 
+p1                        =    0.0652483   +/-   0.000138085 
+p2                        =    0.0659287   +/-   0.00011948  
+p3                        =    0.0621459   +/-   0.000113203 
+p4                        =    0.0600373   +/-   0.000104456 
+p5                        =    0.0588934   +/-   9.97042e-05 
+p6                        =     0.058544   +/-   9.12624e-05 
+p7                        =    0.0587761   +/-   8.05461e-05 
+p8                        =    0.0588249   +/-   7.26251e-05 
+p9                        =    0.0594159   +/-   6.07102e-05 
+p10                       =    0.0600419   +/-   6.08332e-05 
+p11                       =    0.0602547   +/-   6.52403e-05 
+p12                       =    0.0603114   +/-   5.9576e-05  
+p13                       =    0.0598117   +/-   6.16281e-05 
+p14                       =    0.0595743   +/-   0.000164272 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      62.7243
+NDf                       =           49
+Edm                       =  8.80037e-07
+NCalls                    =          432
+p0                        =   0.00189491   +/-   3.34288e-05 
+p1                        =   0.00514904   +/-   4.21036e-05 
+p2                        =   0.00577818   +/-   4.19621e-05 
+p3                        =     0.005644   +/-   3.99917e-05 
+p4                        =   0.00563053   +/-   3.28011e-05 
+p5                        =   0.00558888   +/-   2.85373e-05 
+p6                        =   0.00579448   +/-   2.53848e-05 
+p7                        =   0.00587701   +/-   2.29736e-05 
+p8                        =   0.00597369   +/-   1.91926e-05 
+p9                        =   0.00584046   +/-   1.90448e-05 
+p10                       =   0.00585918   +/-   2.03519e-05 
+p11                       =   0.00578788   +/-   1.83745e-05 
+p12                       =   0.00547928   +/-   1.87272e-05 
+p13                       =   0.00521912   +/-   4.94347e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =       43.592
+NDf                       =           41
+Edm                       =  8.51702e-20
+NCalls                    =          387
+p0                        =    0.0221951   +/-   0.000348194 
+p1                        =    0.0201036   +/-   0.000542119 
+p2                        =    0.0312351   +/-   0.000106422 
+p3                        =    0.0323223   +/-   0.000100091 
+p4                        =    0.0330108   +/-   8.07026e-05 
+p5                        =    0.0334386   +/-   5.79852e-05 
+p6                        =    0.0341513   +/-   4.6085e-05  
+p7                        =    0.0342627   +/-   4.69614e-05 
+p8                        =    0.0342895   +/-   4.94986e-05 
+p9                        =    0.0342247   +/-   4.48558e-05 
+p10                       =    0.0336077   +/-   4.62718e-05 
+p11                       =     0.033044   +/-   0.000122922 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      55.0672
+NDf                       =           53
+Edm                       =   4.0535e-06
+NCalls                    =          480
+p0                        =     0.062119   +/-   0.000185948 
+p1                        =    0.0651345   +/-   0.000137843 
+p2                        =    0.0655241   +/-   0.000118752 
+p3                        =    0.0601515   +/-   0.000111289 
+p4                        =    0.0564261   +/-   0.000100915 
+p5                        =    0.0526882   +/-   9.43095e-05 
+p6                        =    0.0502554   +/-   8.38834e-05 
+p7                        =    0.0470933   +/-   7.1287e-05  
+p8                        =    0.0424689   +/-   6.06772e-05 
+p9                        =    0.0366434   +/-   4.67735e-05 
+p10                       =    0.0303864   +/-   4.38643e-05 
+p11                       =    0.0291042   +/-   4.55731e-05 
+p12                       =    0.0286102   +/-   4.0949e-05  
+p13                       =     0.027655   +/-   4.2013e-05  
+p14                       =    0.0269202   +/-   0.000111369 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =       47.539
+NDf                       =           49
+Edm                       =  8.85178e-07
+NCalls                    =          432
+p0                        =   0.00184816   +/-   3.29478e-05 
+p1                        =   0.00492033   +/-   4.11154e-05 
+p2                        =   0.00541986   +/-   4.05491e-05 
+p3                        =   0.00511112   +/-   3.8183e-05  
+p4                        =   0.00500874   +/-   3.074e-05   
+p5                        =    0.0047719   +/-   2.60665e-05 
+p6                        =   0.00457141   +/-   2.22335e-05 
+p7                        =   0.00411869   +/-   1.88437e-05 
+p8                        =   0.00349521   +/-   1.4372e-05  
+p9                        =   0.00274929   +/-   1.32485e-05 
+p10                       =   0.00259255   +/-   1.36117e-05 
+p11                       =   0.00249004   +/-   1.20026e-05 
+p12                       =   0.00224633   +/-   1.20403e-05 
+p13                       =   0.00205103   +/-   3.14813e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      44.3046
+NDf                       =           41
+Edm                       =  1.32874e-19
+NCalls                    =          383
+p0                        =    0.0188285   +/-   0.00031834  
+p1                        =    0.0170374   +/-   0.000494846 
+p2                        =    0.0255995   +/-   9.61774e-05 
+p3                        =    0.0257597   +/-   8.91231e-05 
+p4                        =    0.0256285   +/-   7.03622e-05 
+p5                        =    0.0248478   +/-   4.96252e-05 
+p6                        =    0.0218461   +/-   3.63336e-05 
+p7                        =    0.0183399   +/-   3.47219e-05 
+p8                        =    0.0177148   +/-   3.57254e-05 
+p9                        =    0.0174578   +/-   3.20052e-05 
+p10                       =    0.0169637   +/-   3.29092e-05 
+p11                       =    0.0165549   +/-   8.72689e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      54.7049
+NDf                       =           53
+Edm                       =  8.31201e-06
+NCalls                    =          479
+p0                        =    0.0624799   +/-   0.000186468 
+p1                        =    0.0653554   +/-   0.000138189 
+p2                        =    0.0659818   +/-   0.000119525 
+p3                        =    0.0621856   +/-   0.000113239 
+p4                        =    0.0600656   +/-   0.000104478 
+p5                        =    0.0589065   +/-   9.97212e-05 
+p6                        =    0.0585781   +/-   9.12841e-05 
+p7                        =    0.0587884   +/-   8.057e-05   
+p8                        =    0.0589246   +/-   7.26871e-05 
+p9                        =    0.0595557   +/-   6.07906e-05 
+p10                       =    0.0602625   +/-   6.09419e-05 
+p11                       =    0.0605802   +/-   6.54068e-05 
+p12                       =    0.0606972   +/-   5.97787e-05 
+p13                       =     0.060308   +/-   6.18741e-05 
+p14                       =    0.0600433   +/-   0.000164923 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      51.2044
+NDf                       =           49
+Edm                       =  2.27198e-06
+NCalls                    =          434
+p0                        =   0.00722515   +/-   6.05063e-05 
+p1                        =   0.00759414   +/-   5.16882e-05 
+p2                        =   0.00757531   +/-   4.81922e-05 
+p3                        =   0.00759475   +/-   4.63509e-05 
+p4                        =   0.00757097   +/-   3.79386e-05 
+p5                        =   0.00745463   +/-   3.28778e-05 
+p6                        =   0.00751342   +/-   2.88735e-05 
+p7                        =   0.00750257   +/-   2.59832e-05 
+p8                        =   0.00761942   +/-   2.17373e-05 
+p9                        =   0.00767087   +/-   2.17734e-05 
+p10                       =   0.00775717   +/-   2.34175e-05 
+p11                       =   0.00780569   +/-   2.14268e-05 
+p12                       =   0.00775049   +/-   2.21779e-05 
+p13                       =   0.00773898   +/-   5.91792e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      54.3118
+NDf                       =           41
+Edm                       =  1.62042e-05
+NCalls                    =          476
+p0                        =    0.0262612   +/-   0.000375279 
+p1                        =    0.0239666   +/-   0.000583836 
+p2                        =    0.0360124   +/-   0.000114326 
+p3                        =    0.0373722   +/-   0.000107495 
+p4                        =    0.0379263   +/-   8.64879e-05 
+p5                        =    0.0385846   +/-   6.20174e-05 
+p6                        =    0.0375447   +/-   4.81138e-05 
+p7                        =    0.0359221   +/-   4.82022e-05 
+p8                        =    0.0356041   +/-   5.04896e-05 
+p9                        =    0.0353477   +/-   4.55555e-05 
+p10                       =    0.0344498   +/-   4.6881e-05  
+p11                       =    0.0338436   +/-   0.000124475 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      54.4239
+NDf                       =           53
+Edm                       =  8.58437e-06
+NCalls                    =          479
+p0                        =    0.0624896   +/-   0.000186488 
+p1                        =    0.0653808   +/-   0.000138217 
+p2                        =    0.0660076   +/-   0.000119553 
+p3                        =    0.0622214   +/-   0.000113272 
+p4                        =    0.0601221   +/-   0.000104532 
+p5                        =    0.0589894   +/-   9.97863e-05 
+p6                        =     0.058655   +/-   9.13604e-05 
+p7                        =    0.0589259   +/-   8.06623e-05 
+p8                        =    0.0590578   +/-   7.2812e-05  
+p9                        =    0.0600032   +/-   6.10368e-05 
+p10                       =    0.0608982   +/-   6.12481e-05 
+p11                       =    0.0611522   +/-   6.57173e-05 
+p12                       =    0.0612247   +/-   6.00361e-05 
+p13                       =    0.0608102   +/-   6.21337e-05 
+p14                       =    0.0605834   +/-   0.00016563  
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      51.7748
+NDf                       =           49
+Edm                       =  2.41525e-06
+NCalls                    =          436
+p0                        =   0.00722862   +/-   6.05222e-05 
+p1                        =   0.00760287   +/-   5.17199e-05 
+p2                        =    0.0075835   +/-   4.82183e-05 
+p3                        =   0.00760314   +/-   4.63755e-05 
+p4                        =   0.00758312   +/-   3.79679e-05 
+p5                        =   0.00746594   +/-   3.29093e-05 
+p6                        =    0.0075322   +/-   2.8907e-05  
+p7                        =    0.0075196   +/-   2.60311e-05 
+p8                        =   0.00767968   +/-   2.183e-05   
+p9                        =   0.00775764   +/-   2.189e-05   
+p10                       =   0.00783592   +/-   2.35378e-05 
+p11                       =   0.00788318   +/-   2.15322e-05 
+p12                       =   0.00782186   +/-   2.22819e-05 
+p13                       =   0.00782491   +/-   5.94691e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      52.4351
+NDf                       =           41
+Edm                       =  1.79156e-05
+NCalls                    =          476
+p0                        =     0.026305   +/-   0.000375569 
+p1                        =     0.024013   +/-   0.000584298 
+p2                        =    0.0360787   +/-   0.000114428 
+p3                        =    0.0374422   +/-   0.000107599 
+p4                        =    0.0380044   +/-   8.65825e-05 
+p5                        =    0.0386614   +/-   6.20978e-05 
+p6                        =    0.0377786   +/-   4.82668e-05 
+p7                        =    0.0361735   +/-   4.83698e-05 
+p8                        =    0.0358071   +/-   5.06376e-05 
+p9                        =    0.0355276   +/-   4.56697e-05 
+p10                       =    0.0346231   +/-   4.69985e-05 
+p11                       =    0.0340299   +/-   0.000124804 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      53.9666
+NDf                       =           53
+Edm                       =   4.0718e-06
+NCalls                    =          480
+p0                        =    0.0623686   +/-   0.000186276 
+p1                        =    0.0652559   +/-   0.000137962 
+p2                        =    0.0655901   +/-   0.000118811 
+p3                        =    0.0602086   +/-   0.000111344 
+p4                        =    0.0564873   +/-   0.00010097  
+p5                        =    0.0527434   +/-   9.43608e-05 
+p6                        =    0.0503194   +/-   8.39382e-05 
+p7                        =    0.0471588   +/-   7.13401e-05 
+p8                        =    0.0425533   +/-   6.07411e-05 
+p9                        =    0.0367381   +/-   4.68348e-05 
+p10                       =    0.0304692   +/-   4.39232e-05 
+p11                       =    0.0291777   +/-   4.56304e-05 
+p12                       =     0.028683   +/-   4.10012e-05 
+p13                       =    0.0277225   +/-   4.20655e-05 
+p14                       =    0.0269795   +/-   0.000111502 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      37.9081
+NDf                       =           49
+Edm                       =  1.69937e-06
+NCalls                    =          435
+p0                        =   0.00701524   +/-   5.9559e-05  
+p1                        =   0.00722816   +/-   5.03689e-05 
+p2                        =   0.00704935   +/-   4.63906e-05 
+p3                        =   0.00682262   +/-   4.40697e-05 
+p4                        =   0.00667757   +/-   3.53902e-05 
+p5                        =   0.00628238   +/-   2.98228e-05 
+p6                        =   0.00582496   +/-   2.50533e-05 
+p7                        =   0.00516506   +/-   2.11009e-05 
+p8                        =   0.00435404   +/-   1.60394e-05 
+p9                        =   0.00342539   +/-   1.4779e-05  
+p10                       =    0.0032254   +/-   1.51871e-05 
+p11                       =   0.00311745   +/-   1.3464e-05  
+p12                       =   0.00288148   +/-   1.36115e-05 
+p13                       =   0.00272731   +/-   3.58264e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =       50.183
+NDf                       =           41
+Edm                       =   4.8257e-20
+NCalls                    =          385
+p0                        =      0.02228   +/-   0.000342553 
+p1                        =    0.0203582   +/-   0.000532023 
+p2                        =    0.0294084   +/-   0.000103123 
+p3                        =    0.0296325   +/-   9.54929e-05 
+p4                        =    0.0293037   +/-   7.5197e-05  
+p5                        =    0.0284661   +/-   5.29476e-05 
+p6                        =    0.0240424   +/-   3.79725e-05 
+p7                        =    0.0193317   +/-   3.57114e-05 
+p8                        =    0.0184572   +/-   3.65085e-05 
+p9                        =    0.0180913   +/-   3.25581e-05 
+p10                       =     0.017455   +/-   3.34044e-05 
+p11                       =    0.0170267   +/-   8.85473e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      55.2031
+NDf                       =           53
+Edm                       =  5.09272e-06
+NCalls                    =          477
+p0                        =    0.0622931   +/-   0.000186405 
+p1                        =    0.0652318   +/-   0.000138143 
+p2                        =    0.0659095   +/-   0.000119475 
+p3                        =    0.0620827   +/-   0.000113174 
+p4                        =    0.0599566   +/-   0.000104409 
+p5                        =    0.0588187   +/-   9.96648e-05 
+p6                        =    0.0584626   +/-   9.12355e-05 
+p7                        =    0.0586487   +/-   8.05133e-05 
+p8                        =    0.0586915   +/-   7.25627e-05 
+p9                        =    0.0590124   +/-   6.05474e-05 
+p10                       =    0.0594881   +/-   6.06231e-05 
+p11                       =    0.0597459   +/-   6.50578e-05 
+p12                       =    0.0598426   +/-   5.95222e-05 
+p13                       =    0.0593699   +/-   6.18044e-05 
+p14                       =    0.0591443   +/-   0.000170306 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      62.3715
+NDf                       =           49
+Edm                       =   5.3148e-07
+NCalls                    =          429
+p0                        =   0.00190116   +/-   3.35178e-05 
+p1                        =   0.00514379   +/-   4.20831e-05 
+p2                        =   0.00577143   +/-   4.19404e-05 
+p3                        =   0.00563952   +/-   3.9985e-05  
+p4                        =   0.00562432   +/-   3.27934e-05 
+p5                        =   0.00557843   +/-   2.85185e-05 
+p6                        =   0.00578256   +/-   2.53769e-05 
+p7                        =    0.0058648   +/-   2.2955e-05  
+p8                        =   0.00593221   +/-   1.91451e-05 
+p9                        =   0.00579965   +/-   1.89971e-05 
+p10                       =   0.00582243   +/-   2.03164e-05 
+p11                       =   0.00575277   +/-   1.83743e-05 
+p12                       =   0.00544747   +/-   1.87999e-05 
+p13                       =   0.00521381   +/-   5.13914e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      44.4977
+NDf                       =           41
+Edm                       =  1.97277e-05
+NCalls                    =          474
+p0                        =    0.0220307   +/-   0.000347589 
+p1                        =     0.019911   +/-   0.000541334 
+p2                        =    0.0311771   +/-   0.000106387 
+p3                        =    0.0322531   +/-   0.000100026 
+p4                        =     0.032939   +/-   8.0658e-05  
+p5                        =     0.033375   +/-   5.7951e-05  
+p6                        =     0.033937   +/-   4.59816e-05 
+p7                        =    0.0340277   +/-   4.68461e-05 
+p8                        =    0.0340988   +/-   4.94279e-05 
+p9                        =    0.0340562   +/-   4.48761e-05 
+p10                       =    0.0334436   +/-   4.6462e-05  
+p11                       =    0.0329242   +/-   0.000127625 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      54.9084
+NDf                       =           53
+Edm                       =   5.0552e-06
+NCalls                    =          477
+p0                        =    0.0623003   +/-   0.000186422 
+p1                        =    0.0652556   +/-   0.000138169 
+p2                        =    0.0659335   +/-   0.0001195   
+p3                        =    0.0621163   +/-   0.000113206 
+p4                        =    0.0600127   +/-   0.000104462 
+p5                        =    0.0588982   +/-   9.97281e-05 
+p6                        =    0.0585383   +/-   9.13083e-05 
+p7                        =    0.0587756   +/-   8.05994e-05 
+p8                        =    0.0588199   +/-   7.2679e-05  
+p9                        =    0.0594104   +/-   6.07664e-05 
+p10                       =    0.0600405   +/-   6.08921e-05 
+p11                       =    0.0602558   +/-   6.53357e-05 
+p12                       =    0.0603162   +/-   5.97551e-05 
+p13                       =    0.0598169   +/-   6.20391e-05 
+p14                       =    0.0596337   +/-   0.000170974 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      61.9565
+NDf                       =           49
+Edm                       =   5.7233e-07
+NCalls                    =          427
+p0                        =   0.00190209   +/-   3.35277e-05 
+p1                        =    0.0051494   +/-   4.2108e-05  
+p2                        =   0.00577806   +/-   4.1964e-05  
+p3                        =   0.00564531   +/-   4.00056e-05 
+p4                        =   0.00563203   +/-   3.28148e-05 
+p5                        =   0.00558631   +/-   2.85431e-05 
+p6                        =   0.00579476   +/-   2.54021e-05 
+p7                        =   0.00587678   +/-   2.29909e-05 
+p8                        =   0.00597297   +/-   1.92111e-05 
+p9                        =   0.00584036   +/-   1.90634e-05 
+p10                       =   0.00585971   +/-   2.03832e-05 
+p11                       =   0.00579032   +/-   1.84343e-05 
+p12                       =   0.00548398   +/-   1.88622e-05 
+p13                       =   0.00525812   +/-   5.1575e-05  
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      43.3043
+NDf                       =           41
+Edm                       =  1.41633e-17
+NCalls                    =          499
+p0                        =    0.0220666   +/-   0.000347856 
+p1                        =    0.0199477   +/-   0.000541758 
+p2                        =    0.0312312   +/-   0.000106477 
+p3                        =    0.0323098   +/-   0.000100118 
+p4                        =     0.033005   +/-   8.0742e-05  
+p5                        =    0.0334364   +/-   5.80237e-05 
+p6                        =    0.0341478   +/-   4.61265e-05 
+p7                        =     0.034262   +/-   4.70061e-05 
+p8                        =    0.0342876   +/-   4.957e-05   
+p9                        =     0.034227   +/-   4.49867e-05 
+p10                       =     0.033608   +/-   4.6576e-05  
+p11                       =    0.0331084   +/-   0.000127963 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      53.6369
+NDf                       =           53
+Edm                       =  2.73621e-06
+NCalls                    =          480
+p0                        =    0.0621976   +/-   0.000186234 
+p1                        =    0.0651414   +/-   0.000137926 
+p2                        =    0.0655257   +/-   0.000118768 
+p3                        =    0.0601217   +/-   0.00011129  
+p4                        =    0.0564048   +/-   0.000100925 
+p5                        =     0.052697   +/-   9.43404e-05 
+p6                        =    0.0502576   +/-   8.39378e-05 
+p7                        =    0.0470997   +/-   7.13466e-05 
+p8                        =    0.0424769   +/-   6.07392e-05 
+p9                        =     0.036651   +/-   4.68279e-05 
+p10                       =    0.0303856   +/-   4.39098e-05 
+p11                       =    0.0291078   +/-   4.56441e-05 
+p12                       =    0.0286139   +/-   4.10766e-05 
+p13                       =    0.0276643   +/-   4.23039e-05 
+p14                       =     0.026964   +/-   0.000115937 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      46.9167
+NDf                       =           49
+Edm                       =  6.71972e-07
+NCalls                    =          433
+p0                        =   0.00185509   +/-   3.30447e-05 
+p1                        =   0.00492068   +/-   4.11197e-05 
+p2                        =   0.00541977   +/-   4.05519e-05 
+p3                        =   0.00511261   +/-   3.81976e-05 
+p4                        =   0.00501026   +/-   3.07567e-05 
+p5                        =   0.00477067   +/-   2.60759e-05 
+p6                        =    0.0045726   +/-   2.22533e-05 
+p7                        =   0.00411999   +/-   1.88645e-05 
+p8                        =   0.00349551   +/-   1.43882e-05 
+p9                        =   0.00274975   +/-   1.32637e-05 
+p10                       =   0.00259298   +/-   1.36338e-05 
+p11                       =   0.00249195   +/-   1.20471e-05 
+p12                       =   0.00224827   +/-   1.21297e-05 
+p13                       =   0.00206297   +/-   3.28094e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      43.3688
+NDf                       =           41
+Edm                       =  5.22071e-07
+NCalls                    =          382
+p0                        =     0.018725   +/-   0.000318054 
+p1                        =    0.0169135   +/-   0.000494561 
+p2                        =    0.0256022   +/-   9.62344e-05 
+p3                        =    0.0257558   +/-   8.87822e-05 
+p4                        =    0.0256263   +/-   7.03298e-05 
+p5                        =    0.0248509   +/-   4.96211e-05 
+p6                        =    0.0218503   +/-   3.63736e-05 
+p7                        =    0.0183395   +/-   3.46629e-05 
+p8                        =    0.0177139   +/-   3.57752e-05 
+p9                        =    0.0174597   +/-   3.20961e-05 
+p10                       =     0.016966   +/-   3.30883e-05 
+p11                       =    0.0165976   +/-   9.08649e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      54.8905
+NDf                       =           53
+Edm                       =  5.12253e-06
+NCalls                    =          479
+p0                        =    0.0625577   +/-   0.00018675  
+p1                        =    0.0653618   +/-   0.000138272 
+p2                        =    0.0659866   +/-   0.000119545 
+p3                        =    0.0621559   +/-   0.000113242 
+p4                        =     0.060041   +/-   0.000104484 
+p5                        =    0.0589111   +/-   9.97446e-05 
+p6                        =    0.0585721   +/-   9.13298e-05 
+p7                        =    0.0587878   +/-   8.06229e-05 
+p8                        =    0.0589189   +/-   7.27407e-05 
+p9                        =    0.0595506   +/-   6.08471e-05 
+p10                       =    0.0602607   +/-   6.10007e-05 
+p11                       =    0.0605814   +/-   6.55023e-05 
+p12                       =    0.0607012   +/-   5.9958e-05  
+p13                       =    0.0603122   +/-   6.22861e-05 
+p14                       =    0.0600979   +/-   0.00017164  
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      51.0473
+NDf                       =           49
+Edm                       =  1.75317e-06
+NCalls                    =          433
+p0                        =   0.00722727   +/-   6.05234e-05 
+p1                        =   0.00759449   +/-   5.1689e-05  
+p2                        =   0.00757501   +/-   4.81936e-05 
+p3                        =   0.00759594   +/-   4.63635e-05 
+p4                        =    0.0075715   +/-   3.79498e-05 
+p5                        =   0.00745172   +/-   3.28862e-05 
+p6                        =    0.0075144   +/-   2.8896e-05  
+p7                        =   0.00750234   +/-   2.60032e-05 
+p8                        =   0.00761876   +/-   2.17586e-05 
+p9                        =   0.00767087   +/-   2.17955e-05 
+p10                       =   0.00775725   +/-   2.34514e-05 
+p11                       =   0.00780774   +/-   2.14938e-05 
+p12                       =   0.00775216   +/-   2.2328e-05  
+p13                       =   0.00776151   +/-   6.16381e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      53.5701
+NDf                       =           41
+Edm                       =  9.50947e-06
+NCalls                    =          475
+p0                        =    0.0261297   +/-   0.000374983 
+p1                        =    0.0238063   +/-   0.000583527 
+p2                        =    0.0360045   +/-   0.000114375 
+p3                        =    0.0373576   +/-   0.000107523 
+p4                        =    0.0379192   +/-   8.65303e-05 
+p5                        =     0.038583   +/-   6.206e-05   
+p6                        =    0.0375443   +/-   4.81609e-05 
+p7                        =    0.0359207   +/-   4.82484e-05 
+p8                        =    0.0356031   +/-   5.05639e-05 
+p9                        =    0.0353507   +/-   4.56899e-05 
+p10                       =    0.0344515   +/-   4.71909e-05 
+p11                       =    0.0339062   +/-   0.000129574 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      54.5861
+NDf                       =           53
+Edm                       =  5.01316e-06
+NCalls                    =          477
+p0                        =    0.0625675   +/-   0.00018677  
+p1                        =    0.0653873   +/-   0.0001383   
+p2                        =    0.0660124   +/-   0.000119573 
+p3                        =    0.0621917   +/-   0.000113276 
+p4                        =    0.0600974   +/-   0.000104538 
+p5                        =     0.058994   +/-   9.98098e-05 
+p6                        =    0.0586491   +/-   9.14063e-05 
+p7                        =    0.0589253   +/-   8.07153e-05 
+p8                        =    0.0590522   +/-   7.28657e-05 
+p9                        =    0.0599975   +/-   6.1093e-05  
+p10                       =    0.0608968   +/-   6.13073e-05 
+p11                       =    0.0611536   +/-   6.58134e-05 
+p12                       =    0.0612291   +/-   6.02166e-05 
+p13                       =    0.0608147   +/-   6.25479e-05 
+p14                       =    0.0606399   +/-   0.00017238  
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      51.6962
+NDf                       =           49
+Edm                       =  1.85954e-06
+NCalls                    =          431
+p0                        =   0.00723075   +/-   6.05392e-05 
+p1                        =   0.00760321   +/-   5.17207e-05 
+p2                        =   0.00758322   +/-   4.82197e-05 
+p3                        =   0.00760432   +/-   4.63882e-05 
+p4                        =   0.00758366   +/-   3.79791e-05 
+p5                        =   0.00746301   +/-   3.29179e-05 
+p6                        =   0.00753327   +/-   2.89297e-05 
+p7                        =   0.00751932   +/-   2.60509e-05 
+p8                        =   0.00767881   +/-   2.1851e-05  
+p9                        =   0.00775779   +/-   2.19124e-05 
+p10                       =   0.00783607   +/-   2.35723e-05 
+p11                       =    0.0078853   +/-   2.15996e-05 
+p12                       =   0.00782349   +/-   2.24325e-05 
+p13                       =    0.0078469   +/-   6.19374e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =       51.851
+NDf                       =           41
+Edm                       =   1.1799e-05
+NCalls                    =          475
+p0                        =    0.0261738   +/-   0.000375274 
+p1                        =    0.0238533   +/-   0.000583989 
+p2                        =     0.036071   +/-   0.000114478 
+p3                        =    0.0374276   +/-   0.000107626 
+p4                        =    0.0379974   +/-   8.6625e-05  
+p5                        =    0.0386597   +/-   6.21405e-05 
+p6                        =     0.037778   +/-   4.83139e-05 
+p7                        =    0.0361725   +/-   4.84165e-05 
+p8                        =    0.0358063   +/-   5.07124e-05 
+p9                        =    0.0355309   +/-   4.58046e-05 
+p10                       =    0.0346247   +/-   4.73092e-05 
+p11                       =    0.0340948   +/-   0.000129921 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      52.5227
+NDf                       =           53
+Edm                       =  2.77661e-06
+NCalls                    =          480
+p0                        =    0.0624457   +/-   0.000186557 
+p1                        =    0.0652621   +/-   0.000138044 
+p2                        =    0.0655915   +/-   0.000118826 
+p3                        =    0.0601787   +/-   0.000111345 
+p4                        =    0.0564659   +/-   0.000100979 
+p5                        =    0.0527522   +/-   9.43914e-05 
+p6                        =    0.0503215   +/-   8.39926e-05 
+p7                        =    0.0471653   +/-   7.13998e-05 
+p8                        =    0.0425614   +/-   6.08034e-05 
+p9                        =     0.036746   +/-   4.68893e-05 
+p10                       =    0.0304682   +/-   4.39686e-05 
+p11                       =    0.0291814   +/-   4.57016e-05 
+p12                       =    0.0286867   +/-   4.11291e-05 
+p13                       =    0.0277318   +/-   4.2357e-05  
+p14                       =    0.0270207   +/-   0.000116071 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      37.3222
+NDf                       =           49
+Edm                       =  1.34533e-06
+NCalls                    =          436
+p0                        =   0.00701717   +/-   5.95748e-05 
+p1                        =   0.00722848   +/-   5.03699e-05 
+p2                        =   0.00704921   +/-   4.63936e-05 
+p3                        =     0.006824   +/-   4.40827e-05 
+p4                        =   0.00667832   +/-   3.54053e-05 
+p5                        =    0.0062813   +/-   2.98352e-05 
+p6                        =   0.00582672   +/-   2.50773e-05 
+p7                        =   0.00516681   +/-   2.11252e-05 
+p8                        =   0.00435495   +/-   1.60585e-05 
+p9                        =   0.00342548   +/-   1.4795e-05  
+p10                       =   0.00322576   +/-   1.52107e-05 
+p11                       =    0.0031196   +/-   1.35123e-05 
+p12                       =   0.00288303   +/-   1.37095e-05 
+p13                       =   0.00274084   +/-   3.7333e-05  
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      49.2052
+NDf                       =           41
+Edm                       =  3.69139e-19
+NCalls                    =          383
+p0                        =    0.0221761   +/-   0.000342318 
+p1                        =    0.0202335   +/-   0.0005318   
+p2                        =     0.029409   +/-   0.00010319  
+p3                        =    0.0296276   +/-   9.55361e-05 
+p4                        =    0.0293016   +/-   7.52454e-05 
+p5                        =    0.0284711   +/-   5.29941e-05 
+p6                        =    0.0240486   +/-   3.80189e-05 
+p7                        =    0.0193313   +/-   3.57486e-05 
+p8                        =    0.0184564   +/-   3.65622e-05 
+p9                        =    0.0180943   +/-   3.26573e-05 
+p10                       =    0.0174579   +/-   3.36295e-05 
+p11                       =     0.017073   +/-   9.22041e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      71.1901
+NDf                       =           52
+Edm                       =  1.10395e-06
+NCalls                    =          542
+p0                        =    0.0619884   +/-   0.000283612 
+p1                        =    0.0655486   +/-   0.000139261 
+p2                        =    0.0655495   +/-   0.000115425 
+p3                        =    0.0622932   +/-   0.000110151 
+p4                        =    0.0598806   +/-   0.000101483 
+p5                        =    0.0585772   +/-   9.65568e-05 
+p6                        =    0.0584011   +/-   8.85282e-05 
+p7                        =    0.0582399   +/-   7.7925e-05  
+p8                        =    0.0584976   +/-   7.02323e-05 
+p9                        =    0.0583432   +/-   5.84086e-05 
+p10                       =    0.0585051   +/-   5.83557e-05 
+p11                       =    0.0587727   +/-   6.27019e-05 
+p12                       =    0.0588171   +/-   5.84637e-05 
+p13                       =    0.0584872   +/-   5.93404e-05 
+p14                       =    0.0584703   +/-   0.000220624 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      62.3678
+NDf                       =           48
+Edm                       =  5.53424e-06
+NCalls                    =          495
+p0                        =  0.000428969   +/-   7.23264e-05 
+p1                        =   0.00531931   +/-   4.12298e-05 
+p2                        =   0.00582405   +/-   4.07775e-05 
+p3                        =   0.00565854   +/-   3.89489e-05 
+p4                        =   0.00564576   +/-   3.18759e-05 
+p5                        =   0.00569308   +/-   2.79221e-05 
+p6                        =   0.00580273   +/-   2.47082e-05 
+p7                        =   0.00592852   +/-   2.23472e-05 
+p8                        =   0.00586977   +/-   1.8469e-05  
+p9                        =   0.00565795   +/-   1.82117e-05 
+p10                       =   0.00565356   +/-   1.94234e-05 
+p11                       =   0.00553666   +/-   1.7895e-05  
+p12                       =   0.00527194   +/-   1.79138e-05 
+p13                       =   0.00486119   +/-   6.58939e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      34.9113
+NDf                       =           40
+Edm                       =  1.06363e-05
+NCalls                    =          358
+p0                        =    0.0211564   +/-   0.000217139 
+p1                        =     0.018619   +/-   0.000352556 
+p2                        =    0.0312822   +/-   0.000102338 
+p3                        =    0.0326312   +/-   9.12364e-05 
+p4                        =    0.0329552   +/-   7.80621e-05 
+p5                        =    0.0336059   +/-   5.55259e-05 
+p6                        =    0.0336922   +/-   4.1311e-05  
+p7                        =    0.0333092   +/-   4.37738e-05 
+p8                        =    0.0332601   +/-   4.67449e-05 
+p9                        =    0.0332017   +/-   4.34463e-05 
+p10                       =    0.0325782   +/-   4.43641e-05 
+p11                       =    0.0321283   +/-   0.000164346 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      73.7679
+NDf                       =           52
+Edm                       =  1.01242e-06
+NCalls                    =          543
+p0                        =    0.0620463   +/-   0.000283837 
+p1                        =    0.0656751   +/-   0.000139398 
+p2                        =    0.0656953   +/-   0.000115571 
+p3                        =     0.062498   +/-   0.000110335 
+p4                        =    0.0601695   +/-   0.000101741 
+p5                        =    0.0589834   +/-   9.68874e-05 
+p6                        =    0.0588621   +/-   8.89091e-05 
+p7                        =    0.0588779   +/-   7.8355e-05  
+p8                        =    0.0592156   +/-   7.07131e-05 
+p9                        =    0.0594357   +/-   5.89738e-05 
+p10                       =    0.0598315   +/-   5.89929e-05 
+p11                       =    0.0599865   +/-   6.33487e-05 
+p12                       =    0.0599564   +/-   5.90082e-05 
+p13                       =    0.0593913   +/-   5.98219e-05 
+p14                       =    0.0593301   +/-   0.000222356 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      61.3966
+NDf                       =           48
+Edm                       =  5.75048e-06
+NCalls                    =          494
+p0                        =  0.000430062   +/-   7.24775e-05 
+p1                        =   0.00534283   +/-   4.13232e-05 
+p2                        =   0.00585752   +/-   4.08961e-05 
+p3                        =   0.00569519   +/-   3.9071e-05  
+p4                        =   0.00568802   +/-   3.20028e-05 
+p5                        =   0.00573976   +/-   2.80526e-05 
+p6                        =   0.00587602   +/-   2.48655e-05 
+p7                        =   0.00600886   +/-   2.25133e-05 
+p8                        =   0.00598816   +/-   1.86543e-05 
+p9                        =   0.00577304   +/-   1.83943e-05 
+p10                       =   0.00574628   +/-   1.95875e-05 
+p11                       =   0.00562059   +/-   1.80254e-05 
+p12                       =   0.00533433   +/-   1.8026e-05  
+p13                       =   0.00492801   +/-   6.63123e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      37.2488
+NDf                       =           40
+Edm                       =  1.60901e-05
+NCalls                    =          475
+p0                        =    0.0213176   +/-   0.00021811  
+p1                        =    0.0187528   +/-   0.000354175 
+p2                        =    0.0315936   +/-   0.000102966 
+p3                        =    0.0329699   +/-   9.77717e-05 
+p4                        =    0.0333425   +/-   7.85784e-05 
+p5                        =     0.033998   +/-   5.661e-05   
+p6                        =    0.0342979   +/-   4.48171e-05 
+p7                        =    0.0339417   +/-   4.54377e-05 
+p8                        =    0.0337602   +/-   4.78326e-05 
+p9                        =    0.0336191   +/-   4.41535e-05 
+p10                       =    0.0328791   +/-   4.46118e-05 
+p11                       =    0.0324318   +/-   0.000165469 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =       65.199
+NDf                       =           52
+Edm                       =  6.97989e-07
+NCalls                    =          544
+p0                        =    0.0617465   +/-   0.000282929 
+p1                        =    0.0653322   +/-   0.000138926 
+p2                        =    0.0650542   +/-   0.000114612 
+p3                        =    0.0601226   +/-   0.000108126 
+p4                        =     0.056094   +/-   9.78522e-05 
+p5                        =    0.0522312   +/-   9.11688e-05 
+p6                        =    0.0498892   +/-   8.11698e-05 
+p7                        =    0.0463695   +/-   6.87418e-05 
+p8                        =    0.0419382   +/-   5.85049e-05 
+p9                        =    0.0358898   +/-   4.4946e-05  
+p10                       =    0.0296332   +/-   4.20841e-05 
+p11                       =    0.0284231   +/-   4.3826e-05  
+p12                       =    0.0278362   +/-   4.01312e-05 
+p13                       =     0.026912   +/-   4.03855e-05 
+p14                       =     0.026401   +/-   0.000149726 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      61.5943
+NDf                       =           48
+Edm                       =  2.19437e-06
+NCalls                    =          487
+p0                        =  0.000442539   +/-   7.08341e-05 
+p1                        =   0.00507337   +/-   4.02382e-05 
+p2                        =   0.00544545   +/-   3.93646e-05 
+p3                        =    0.0051283   +/-   3.7148e-05  
+p4                        =   0.00502083   +/-   2.9846e-05  
+p5                        =   0.00482636   +/-   2.54316e-05 
+p6                        =   0.00455824   +/-   2.15913e-05 
+p7                        =   0.00411985   +/-   1.82826e-05 
+p8                        =   0.00342693   +/-   1.38024e-05 
+p9                        =   0.00265374   +/-   1.2648e-05  
+p10                       =   0.00249763   +/-   1.29897e-05 
+p11                       =   0.00237761   +/-   1.16794e-05 
+p12                       =   0.00215031   +/-   1.15102e-05 
+p13                       =   0.00187179   +/-   4.19999e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      28.6295
+NDf                       =           40
+Edm                       =  1.43088e-05
+NCalls                    =          475
+p0                        =     0.018016   +/-   0.000198652 
+p1                        =    0.0159511   +/-   0.000321643 
+p2                        =    0.0254571   +/-   9.23036e-05 
+p3                        =    0.0258253   +/-   8.63314e-05 
+p4                        =    0.0253742   +/-   6.78479e-05 
+p5                        =    0.0247954   +/-   4.79915e-05 
+p6                        =    0.0215137   +/-   3.49879e-05 
+p7                        =    0.0178903   +/-   3.33124e-05 
+p8                        =     0.017214   +/-   3.42945e-05 
+p9                        =    0.0169215   +/-   3.13037e-05 
+p10                       =    0.0164301   +/-   3.15647e-05 
+p11                       =    0.0161525   +/-   0.000117058 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      69.3178
+NDf                       =           52
+Edm                       =  1.03774e-06
+NCalls                    =          543
+p0                        =     0.062243   +/-   0.000283978 
+p1                        =    0.0656527   +/-   0.000139367 
+p2                        =    0.0656202   +/-   0.000115489 
+p3                        =    0.0623656   +/-   0.000110217 
+p4                        =    0.0599708   +/-   0.000101563 
+p5                        =     0.058681   +/-   9.6644e-05  
+p6                        =    0.0585253   +/-   8.86317e-05 
+p7                        =     0.058403   +/-   7.80511e-05 
+p8                        =    0.0587668   +/-   7.04284e-05 
+p9                        =    0.0589184   +/-   5.87196e-05 
+p10                       =    0.0593005   +/-   5.87381e-05 
+p11                       =    0.0596209   +/-   6.31466e-05 
+p12                       =    0.0597034   +/-   5.89065e-05 
+p13                       =     0.059442   +/-   5.98131e-05 
+p14                       =    0.0594785   +/-   0.000222426 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      66.7425
+NDf                       =           48
+Edm                       =  2.35012e-06
+NCalls                    =          467
+p0                        =   0.00709905   +/-   0.000110991 
+p1                        =   0.00768998   +/-   4.99518e-05 
+p2                        =   0.00755763   +/-   4.65937e-05 
+p3                        =   0.00752507   +/-   4.48885e-05 
+p4                        =   0.00748804   +/-   3.66492e-05 
+p5                        =   0.00747668   +/-   3.19271e-05 
+p6                        =   0.00744422   +/-   2.79336e-05 
+p7                        =   0.00747405   +/-   2.51738e-05 
+p8                        =   0.00753237   +/-   2.10004e-05 
+p9                        =   0.00757121   +/-   2.10008e-05 
+p10                       =   0.00765589   +/-   2.26012e-05 
+p11                       =   0.00762841   +/-   2.10756e-05 
+p12                       =   0.00764285   +/-   2.14396e-05 
+p13                       =   0.00754259   +/-   7.96351e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      48.3679
+NDf                       =           40
+Edm                       =   5.7612e-06
+NCalls                    =          359
+p0                        =    0.0252499   +/-   0.000234064 
+p1                        =    0.0226746   +/-   0.00037924  
+p2                        =    0.0358873   +/-   0.0001092   
+p3                        =    0.0373236   +/-   0.000101414 
+p4                        =    0.0375255   +/-   8.33284e-05 
+p5                        =    0.0383701   +/-   5.94376e-05 
+p6                        =    0.0368832   +/-   4.16031e-05 
+p7                        =     0.034956   +/-   4.31831e-05 
+p8                        =    0.0345845   +/-   4.66647e-05 
+p9                        =    0.0343576   +/-   4.39285e-05 
+p10                       =    0.0335315   +/-   4.50353e-05 
+p11                       =     0.033066   +/-   0.000167047 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      72.7413
+NDf                       =           52
+Edm                       =  1.06875e-06
+NCalls                    =          543
+p0                        =    0.0623012   +/-   0.000284213 
+p1                        =    0.0657868   +/-   0.000139511 
+p2                        =    0.0657716   +/-   0.00011564  
+p3                        =    0.0625768   +/-   0.000110406 
+p4                        =    0.0602636   +/-   0.000101826 
+p5                        =     0.059098   +/-   9.69816e-05 
+p6                        =    0.0589948   +/-   8.90233e-05 
+p7                        =    0.0590675   +/-   7.84964e-05 
+p8                        =    0.0595049   +/-   7.09303e-05 
+p9                        =    0.0601072   +/-   5.93352e-05 
+p10                       =    0.0607835   +/-   5.9443e-05  
+p11                       =    0.0609803   +/-   6.38643e-05 
+p12                       =    0.0609759   +/-   5.95098e-05 
+p13                       =    0.0604443   +/-   6.03437e-05 
+p14                       =    0.0604193   +/-   0.000224327 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      67.7893
+NDf                       =           48
+Edm                       =  2.33606e-06
+NCalls                    =          467
+p0                        =   0.00712428   +/-   0.000111233 
+p1                        =   0.00772765   +/-   5.00749e-05 
+p2                        =   0.00760147   +/-   4.67343e-05 
+p3                        =   0.00757985   +/-   4.50465e-05 
+p4                        =   0.00754712   +/-   3.68003e-05 
+p5                        =   0.00754102   +/-   3.20824e-05 
+p6                        =   0.00754058   +/-   2.81168e-05 
+p7                        =   0.00757915   +/-   2.5373e-05  
+p8                        =   0.00770145   +/-   2.12429e-05 
+p9                        =   0.00777336   +/-   2.1271e-05  
+p10                       =   0.00783489   +/-   2.2868e-05  
+p11                       =   0.00779441   +/-   2.12975e-05 
+p12                       =   0.00777877   +/-   2.16382e-05 
+p13                       =   0.00767264   +/-   8.03556e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      47.0288
+NDf                       =           40
+Edm                       =   1.0483e-05
+NCalls                    =          474
+p0                        =    0.0254475   +/-   0.000235097 
+p1                        =    0.0228481   +/-   0.000380945 
+p2                        =    0.0362398   +/-   0.000110246 
+p3                        =     0.037715   +/-   0.000104514 
+p4                        =    0.0379648   +/-   8.38404e-05 
+p5                        =    0.0388182   +/-   6.02642e-05 
+p6                        =    0.0375398   +/-   4.67129e-05 
+p7                        =    0.0356217   +/-   4.66526e-05 
+p8                        =    0.0351138   +/-   4.883e-05   
+p9                        =     0.034801   +/-   4.49068e-05 
+p10                       =     0.033851   +/-   4.52968e-05 
+p11                       =    0.0333879   +/-   0.000167981 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      63.4165
+NDf                       =           52
+Edm                       =  7.01452e-07
+NCalls                    =          544
+p0                        =    0.0619831   +/-   0.000283263 
+p1                        =    0.0654253   +/-   0.000139019 
+p2                        =    0.0651151   +/-   0.000114665 
+p3                        =    0.0601756   +/-   0.000108175 
+p4                        =    0.0561536   +/-   9.79052e-05 
+p5                        =     0.052291   +/-   9.12229e-05 
+p6                        =     0.049957   +/-   8.12271e-05 
+p7                        =    0.0464433   +/-   6.88002e-05 
+p8                        =    0.0420286   +/-   5.85703e-05 
+p9                        =    0.0359849   +/-   4.50053e-05 
+p10                       =     0.029711   +/-   4.21388e-05 
+p11                       =    0.0284984   +/-   4.38839e-05 
+p12                       =    0.0279069   +/-   4.0182e-05  
+p13                       =    0.0269795   +/-   4.04359e-05 
+p14                       =    0.0264707   +/-   0.000149919 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      59.7895
+NDf                       =           48
+Edm                       =  6.67871e-07
+NCalls                    =          462
+p0                        =   0.00691216   +/-   0.000108645 
+p1                        =   0.00729188   +/-   4.8594e-05  
+p2                        =   0.00701289   +/-   4.47913e-05 
+p3                        =   0.00673439   +/-   4.25629e-05 
+p4                        =   0.00657153   +/-   3.40931e-05 
+p5                        =   0.00625244   +/-   2.8841e-05  
+p6                        =   0.00572835   +/-   2.4153e-05  
+p7                        =   0.00507999   +/-   2.03253e-05 
+p8                        =   0.00425067   +/-   1.53906e-05 
+p9                        =   0.00333245   +/-   1.41591e-05 
+p10                       =   0.00313223   +/-   1.45612e-05 
+p11                       =   0.00300046   +/-   1.31334e-05 
+p12                       =   0.00277873   +/-   1.30373e-05 
+p13                       =   0.00253361   +/-   4.79086e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      27.7065
+NDf                       =           40
+Edm                       =  9.65418e-06
+NCalls                    =          473
+p0                        =    0.0214301   +/-   0.000213655 
+p1                        =    0.0193763   +/-   0.000345158 
+p2                        =     0.029052   +/-   9.85649e-05 
+p3                        =     0.029305   +/-   9.1928e-05  
+p4                        =    0.0287008   +/-   7.21287e-05 
+p5                        =    0.0280814   +/-   5.09177e-05 
+p6                        =    0.0234502   +/-   3.64064e-05 
+p7                        =    0.0187464   +/-   3.41579e-05 
+p8                        =     0.017859   +/-   3.49706e-05 
+p9                        =    0.0174893   +/-   3.18138e-05 
+p10                       =    0.0168914   +/-   3.20267e-05 
+p11                       =    0.0166047   +/-   0.000118743 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      68.5753
+NDf                       =           52
+Edm                       =  6.75312e-07
+NCalls                    =          544
+p0                        =    0.0621026   +/-   0.000283958 
+p1                        =     0.065545   +/-   0.000139335 
+p2                        =      0.06557   +/-   0.000115437 
+p3                        =    0.0622392   +/-   0.000110154 
+p4                        =    0.0598849   +/-   0.000101499 
+p5                        =     0.058577   +/-   9.66002e-05 
+p6                        =     0.058399   +/-   8.8582e-05  
+p7                        =    0.0582426   +/-   7.798e-05   
+p8                        =    0.0584955   +/-   7.02922e-05 
+p9                        =    0.0583435   +/-   5.84656e-05 
+p10                       =    0.0585026   +/-   5.84123e-05 
+p11                       =    0.0587701   +/-   6.27956e-05 
+p12                       =    0.0588137   +/-   5.86471e-05 
+p13                       =    0.0584837   +/-   5.98713e-05 
+p14                       =    0.0583662   +/-   0.0002284   
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =       62.139
+NDf                       =           48
+Edm                       =  4.93741e-06
+NCalls                    =          492
+p0                        =  0.000433009   +/-   7.23352e-05 
+p1                        =   0.00531733   +/-   4.12179e-05 
+p2                        =   0.00582507   +/-   4.07841e-05 
+p3                        =   0.00565722   +/-   3.89515e-05 
+p4                        =   0.00564452   +/-   3.18849e-05 
+p5                        =   0.00569273   +/-   2.79395e-05 
+p6                        =   0.00580153   +/-   2.4723e-05  
+p7                        =   0.00592913   +/-   2.2369e-05  
+p8                        =   0.00587036   +/-   1.84877e-05 
+p9                        =   0.00565762   +/-   1.82285e-05 
+p10                       =   0.00565548   +/-   1.94598e-05 
+p11                       =   0.00553715   +/-   1.79498e-05 
+p12                       =    0.0052729   +/-   1.80711e-05 
+p13                       =   0.00487421   +/-   6.82852e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      34.1776
+NDf                       =           40
+Edm                       =  1.01501e-05
+NCalls                    =          473
+p0                        =    0.0209546   +/-   0.000216542 
+p1                        =    0.0183569   +/-   0.000351904 
+p2                        =    0.0312752   +/-   0.000102505 
+p3                        =    0.0326274   +/-   9.73076e-05 
+p4                        =    0.0329553   +/-   7.81729e-05 
+p5                        =    0.0336046   +/-   5.63033e-05 
+p6                        =     0.033693   +/-   4.44596e-05 
+p7                        =    0.0333091   +/-   4.50597e-05 
+p8                        =    0.0332595   +/-   4.75445e-05 
+p9                        =    0.0332062   +/-   4.40349e-05 
+p10                       =    0.0325826   +/-   4.47921e-05 
+p11                       =    0.0321415   +/-   0.000170561 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      71.4193
+NDf                       =           52
+Edm                       =  7.22611e-07
+NCalls                    =          544
+p0                        =    0.0621614   +/-   0.000284186 
+p1                        =    0.0656719   +/-   0.000139473 
+p2                        =    0.0657161   +/-   0.000115582 
+p3                        =    0.0624438   +/-   0.000110338 
+p4                        =    0.0601736   +/-   0.000101757 
+p5                        =    0.0589828   +/-   9.69304e-05 
+p6                        =    0.0588594   +/-   8.89624e-05 
+p7                        =    0.0588804   +/-   7.84097e-05 
+p8                        =    0.0592128   +/-   7.0773e-05  
+p9                        =    0.0594352   +/-   5.90308e-05 
+p10                       =    0.0598294   +/-   5.90505e-05 
+p11                       =    0.0599841   +/-   6.34438e-05 
+p12                       =     0.059953   +/-   5.91933e-05 
+p13                       =    0.0593868   +/-   6.03564e-05 
+p14                       =    0.0592143   +/-   0.000230184 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      61.2189
+NDf                       =           48
+Edm                       =  5.17672e-06
+NCalls                    =          492
+p0                        =   0.00043412   +/-   7.24862e-05 
+p1                        =   0.00534084   +/-   4.13112e-05 
+p2                        =   0.00585852   +/-   4.09027e-05 
+p3                        =   0.00569391   +/-   3.90738e-05 
+p4                        =   0.00568683   +/-   3.20121e-05 
+p5                        =   0.00573923   +/-   2.80692e-05 
+p6                        =   0.00587486   +/-   2.48805e-05 
+p7                        =   0.00600934   +/-   2.25349e-05 
+p8                        =   0.00598863   +/-   1.86729e-05 
+p9                        =   0.00577291   +/-   1.84118e-05 
+p10                       =   0.00574852   +/-   1.9625e-05  
+p11                       =   0.00562091   +/-   1.80804e-05 
+p12                       =   0.00533547   +/-   1.81847e-05 
+p13                       =   0.00493923   +/-   6.87118e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      36.7047
+NDf                       =           40
+Edm                       =   6.8875e-06
+NCalls                    =          474
+p0                        =    0.0211142   +/-   0.00021748  
+p1                        =    0.0184893   +/-   0.000353488 
+p2                        =    0.0315864   +/-   0.000103012 
+p3                        =    0.0329655   +/-   9.78199e-05 
+p4                        =     0.033343   +/-   7.86333e-05 
+p5                        =    0.0339965   +/-   5.66576e-05 
+p6                        =    0.0342985   +/-   4.48616e-05 
+p7                        =    0.0339416   +/-   4.54828e-05 
+p8                        =    0.0337598   +/-   4.79074e-05 
+p9                        =    0.0336238   +/-   4.42975e-05 
+p10                       =    0.0328835   +/-   4.50128e-05 
+p11                       =     0.032442   +/-   0.00017139  
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      63.0986
+NDf                       =           52
+Edm                       =  4.85929e-07
+NCalls                    =          545
+p0                        =     0.061859   +/-   0.000283274 
+p1                        =    0.0653286   +/-   0.000138999 
+p2                        =     0.065072   +/-   0.00011462  
+p3                        =    0.0600712   +/-   0.000108129 
+p4                        =    0.0561004   +/-   9.7873e-05  
+p5                        =    0.0522371   +/-   9.12209e-05 
+p6                        =    0.0498944   +/-   8.12296e-05 
+p7                        =    0.0463787   +/-   6.88019e-05 
+p8                        =    0.0419473   +/-   5.85703e-05 
+p9                        =    0.0358993   +/-   4.49999e-05 
+p10                       =    0.0296332   +/-   4.21289e-05 
+p11                       =    0.0284238   +/-   4.38935e-05 
+p12                       =    0.0278315   +/-   4.02575e-05 
+p13                       =    0.0269243   +/-   4.07605e-05 
+p14                       =    0.0263772   +/-   0.000155071 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      61.7145
+NDf                       =           48
+Edm                       =  4.41922e-06
+NCalls                    =          487
+p0                        =  0.000446115   +/-   7.08437e-05 
+p1                        =   0.00507165   +/-   4.02274e-05 
+p2                        =   0.00544637   +/-   3.93733e-05 
+p3                        =   0.00512784   +/-   3.71549e-05 
+p4                        =   0.00501968   +/-   2.98552e-05 
+p5                        =   0.00482681   +/-   2.54505e-05 
+p6                        =   0.00455759   +/-   2.16061e-05 
+p7                        =    0.0041219   +/-   1.83076e-05 
+p8                        =   0.00342809   +/-   1.38191e-05 
+p9                        =    0.0026538   +/-   1.26612e-05 
+p10                       =   0.00249856   +/-   1.30141e-05 
+p11                       =   0.00237741   +/-   1.17186e-05 
+p12                       =   0.00215193   +/-   1.16197e-05 
+p13                       =   0.00186526   +/-   4.34694e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      28.5661
+NDf                       =           40
+Edm                       =  5.40969e-06
+NCalls                    =          357
+p0                        =    0.0178473   +/-   0.000198094 
+p1                        =    0.0157309   +/-   0.000321061 
+p2                        =    0.0254568   +/-   9.2182e-05  
+p3                        =    0.0258271   +/-   8.39876e-05 
+p4                        =    0.0253776   +/-   6.77682e-05 
+p5                        =    0.0248003   +/-   4.69328e-05 
+p6                        =    0.0215203   +/-   3.1627e-05  
+p7                        =    0.0178918   +/-   3.18006e-05 
+p8                        =    0.0172139   +/-   3.29836e-05 
+p9                        =     0.016922   +/-   3.08778e-05 
+p10                       =    0.0164361   +/-   3.18367e-05 
+p11                       =    0.0161752   +/-   0.000121253 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      66.8516
+NDf                       =           52
+Edm                       =  6.89351e-07
+NCalls                    =          544
+p0                        =    0.0623552   +/-   0.00028432  
+p1                        =     0.065649   +/-   0.000139441 
+p2                        =    0.0656409   +/-   0.0001155   
+p3                        =    0.0623115   +/-   0.00011022  
+p4                        =    0.0599751   +/-   0.000101579 
+p5                        =    0.0586807   +/-   9.66873e-05 
+p6                        =     0.058523   +/-   8.86855e-05 
+p7                        =    0.0584059   +/-   7.81061e-05 
+p8                        =    0.0587637   +/-   7.04877e-05 
+p9                        =     0.058918   +/-   5.87762e-05 
+p10                       =    0.0592978   +/-   5.87947e-05 
+p11                       =    0.0596185   +/-   6.32409e-05 
+p12                       =    0.0597001   +/-   5.9091e-05  
+p13                       =    0.0594363   +/-   6.03465e-05 
+p14                       =     0.059371   +/-   0.000230262 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      66.2698
+NDf                       =           48
+Edm                       =  3.95072e-06
+NCalls                    =          468
+p0                        =   0.00710044   +/-   0.000110995 
+p1                        =   0.00768976   +/-   4.99528e-05 
+p2                        =   0.00755787   +/-   4.65987e-05 
+p3                        =   0.00752484   +/-   4.48985e-05 
+p4                        =   0.00748719   +/-   3.66616e-05 
+p5                        =   0.00747655   +/-   3.19484e-05 
+p6                        =   0.00744374   +/-   2.79528e-05 
+p7                        =   0.00747437   +/-   2.51986e-05 
+p8                        =   0.00753337   +/-   2.10217e-05 
+p9                        =     0.007571   +/-   2.10207e-05 
+p10                       =   0.00765827   +/-   2.26424e-05 
+p11                       =   0.00762845   +/-   2.11399e-05 
+p12                       =    0.0076383   +/-   2.16213e-05 
+p13                       =   0.00752088   +/-   8.24046e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      47.2179
+NDf                       =           40
+Edm                       =  3.29102e-06
+NCalls                    =          359
+p0                        =    0.0250477   +/-   0.000233501 
+p1                        =    0.0224135   +/-   0.000378622 
+p2                        =    0.0358774   +/-   0.00010954  
+p3                        =    0.0373204   +/-   0.0001019   
+p4                        =    0.0375255   +/-   8.32743e-05 
+p5                        =    0.0383694   +/-   5.93533e-05 
+p6                        =    0.0368866   +/-   4.16338e-05 
+p7                        =    0.0349554   +/-   4.32229e-05 
+p8                        =    0.0345848   +/-   4.65127e-05 
+p9                        =    0.0343615   +/-   4.39482e-05 
+p10                       =    0.0335371   +/-   4.54366e-05 
+p11                       =    0.0330714   +/-   0.000172996 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      70.5528
+NDf                       =           52
+Edm                       =  7.45538e-07
+NCalls                    =          544
+p0                        =    0.0624143   +/-   0.000284557 
+p1                        =    0.0657833   +/-   0.000139586 
+p2                        =    0.0657925   +/-   0.000115651 
+p3                        =    0.0625224   +/-   0.000110409 
+p4                        =    0.0602676   +/-   0.000101842 
+p5                        =    0.0590972   +/-   9.70245e-05 
+p6                        =    0.0589918   +/-   8.90765e-05 
+p7                        =    0.0590701   +/-   7.85511e-05 
+p8                        =    0.0595012   +/-   7.09895e-05 
+p9                        =    0.0601058   +/-   5.93917e-05 
+p10                       =    0.0607812   +/-   5.95005e-05 
+p11                       =    0.0609779   +/-   6.396e-05   
+p12                       =    0.0609725   +/-   5.96961e-05 
+p13                       =    0.0604375   +/-   6.08812e-05 
+p14                       =    0.0602999   +/-   0.000232221 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      67.1877
+NDf                       =           48
+Edm                       =  3.96347e-06
+NCalls                    =          468
+p0                        =    0.0071257   +/-   0.000111237 
+p1                        =   0.00772742   +/-   5.00758e-05 
+p2                        =   0.00760174   +/-   4.67394e-05 
+p3                        =   0.00757958   +/-   4.50563e-05 
+p4                        =   0.00754629   +/-   3.68129e-05 
+p5                        =   0.00754072   +/-   3.21031e-05 
+p6                        =   0.00754013   +/-   2.81364e-05 
+p7                        =   0.00757941   +/-   2.53977e-05 
+p8                        =   0.00770228   +/-   2.12638e-05 
+p9                        =   0.00777317   +/-   2.12911e-05 
+p10                       =   0.00783744   +/-   2.29099e-05 
+p11                       =   0.00779429   +/-   2.13625e-05 
+p12                       =   0.00777418   +/-   2.18217e-05 
+p13                       =   0.00764867   +/-   8.31432e-05 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      45.9819
+NDf                       =           40
+Edm                       =  4.15604e-06
+NCalls                    =          358
+p0                        =    0.0252435   +/-   0.000234496 
+p1                        =    0.0225854   +/-   0.00038029  
+p2                        =    0.0362297   +/-   0.000110049 
+p3                        =    0.0377113   +/-   0.000101494 
+p4                        =    0.0379651   +/-   8.37983e-05 
+p5                        =    0.0388173   +/-   5.9634e-05  
+p6                        =    0.0375432   +/-   4.25503e-05 
+p7                        =    0.0356213   +/-   4.38719e-05 
+p8                        =    0.0351142   +/-   4.70334e-05 
+p9                        =    0.0348049   +/-   4.42682e-05 
+p10                       =    0.0338566   +/-   4.56672e-05 
+p11                       =     0.033389   +/-   0.000173864 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      61.3551
+NDf                       =           52
+Edm                       =  4.89158e-07
+NCalls                    =          545
+p0                        =    0.0620935   +/-   0.000283604 
+p1                        =    0.0654217   +/-   0.000139092 
+p2                        =     0.065133   +/-   0.000114674 
+p3                        =    0.0601242   +/-   0.000108179 
+p4                        =    0.0561601   +/-   9.7926e-05  
+p5                        =    0.0522969   +/-   9.1275e-05  
+p6                        =    0.0499622   +/-   8.1287e-05  
+p7                        =    0.0464528   +/-   6.88608e-05 
+p8                        =    0.0420377   +/-   5.86357e-05 
+p9                        =    0.0359944   +/-   4.5059e-05  
+p10                       =    0.0297109   +/-   4.21833e-05 
+p11                       =    0.0284991   +/-   4.39515e-05 
+p12                       =    0.0279023   +/-   4.03086e-05 
+p13                       =    0.0269917   +/-   4.08113e-05 
+p14                       =    0.0264451   +/-   0.000155268 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      60.0188
+NDf                       =           48
+Edm                       =  1.40722e-06
+NCalls                    =          460
+p0                        =   0.00691305   +/-   0.00010865  
+p1                        =   0.00729193   +/-   4.85959e-05 
+p2                        =   0.00701328   +/-   4.47988e-05 
+p3                        =   0.00673501   +/-   4.25771e-05 
+p4                        =   0.00657098   +/-   3.41063e-05 
+p5                        =   0.00625341   +/-   2.88648e-05 
+p6                        =    0.0057288   +/-   2.41739e-05 
+p7                        =   0.00508229   +/-   2.03534e-05 
+p8                        =   0.00425255   +/-   1.54109e-05 
+p9                        =   0.00333253   +/-   1.41742e-05 
+p10                       =   0.00313316   +/-   1.4587e-05  
+p11                       =   0.00299977   +/-   1.31754e-05 
+p12                       =   0.00277961   +/-   1.31569e-05 
+p13                       =   0.00252395   +/-   4.9585e-05  
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =       27.196
+NDf                       =           40
+Edm                       =  3.04978e-06
+NCalls                    =          357
+p0                        =    0.0212603   +/-   0.000213154 
+p1                        =    0.0191548   +/-   0.000344637 
+p2                        =    0.0290504   +/-   9.84977e-05 
+p3                        =     0.029308   +/-   9.12594e-05 
+p4                        =    0.0287037   +/-   7.19406e-05 
+p5                        =    0.0280871   +/-   5.04481e-05 
+p6                        =    0.0234589   +/-   3.24225e-05 
+p7                        =    0.0187477   +/-   3.16526e-05 
+p8                        =    0.0178593   +/-   3.32949e-05 
+p9                        =    0.0174893   +/-   3.12126e-05 
+p10                       =    0.0168976   +/-   3.22919e-05 
+p11                       =    0.0166165   +/-   0.000122937 
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      2676.18
+NDf                       =           55
+Edm                       =  2.22422e-06
+NCalls                    =          542
+p0                        =   0.00669236   +/-   2.64009e-05 
+p1                        =    0.0169542   +/-   2.78747e-05 
+p2                        =     0.056549   +/-   7.18452e-05 
+p3                        =    0.0643388   +/-   7.53311e-05 
+p4                        =    0.0641386   +/-   7.04115e-05 
+p5                        =    0.0598462   +/-   6.61508e-05 
+p6                        =     0.059279   +/-   6.00244e-05 
+p7                        =    0.0587467   +/-   5.27178e-05 
+p8                        =    0.0588753   +/-   4.74939e-05 
+p9                        =    0.0589457   +/-   3.95037e-05 
+p10                       =    0.0591444   +/-   3.94858e-05 
+p11                       =     0.059381   +/-   4.21554e-05 
+p12                       =    0.0595553   +/-   3.72142e-05 
+p13                       =    0.0592856   +/-   3.82572e-05 
+p14                       =    0.0590303   +/-   5.48174e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_orig_Complete_Bkg_TOF_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      80.7272
+NDf                       =           51
+Edm                       =  9.69177e-07
+NCalls                    =          488
+p0                        =  -0.00029169   +/-   2.56916e-05 
+p1                        =  0.000654806   +/-   6.77305e-06 
+p2                        =   0.00127798   +/-   9.88067e-06 
+p3                        =   0.00546937   +/-   2.21191e-05 
+p4                        =   0.00577479   +/-   2.16001e-05 
+p5                        =   0.00567749   +/-   1.87901e-05 
+p6                        =   0.00571556   +/-   1.65234e-05 
+p7                        =   0.00586718   +/-   1.50471e-05 
+p8                        =   0.00596106   +/-   1.2533e-05  
+p9                        =   0.00578506   +/-   1.23727e-05 
+p10                       =     0.005777   +/-   1.31355e-05 
+p11                       =   0.00572087   +/-   1.14686e-05 
+p12                       =   0.00548464   +/-   1.1619e-05  
+p13                       =    0.0051954   +/-   1.62974e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_orig_Complete_Bkg_NaF_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =       1322.1
+NDf                       =           44
+Edm                       =  2.78513e-06
+NCalls                    =          473
+p0                        =   0.00164251   +/-   2.10356e-05 
+p1                        =  0.000188509   +/-   3.90168e-05 
+p2                        =    0.0079117   +/-   2.12564e-05 
+p3                        =     0.025401   +/-   4.99058e-05 
+p4                        =    0.0315104   +/-   5.13709e-05 
+p5                        =    0.0328126   +/-   3.69224e-05 
+p6                        =    0.0339536   +/-   3.00325e-05 
+p7                        =    0.0337856   +/-   3.04663e-05 
+p8                        =     0.033844   +/-   3.19623e-05 
+p9                        =    0.0338296   +/-   2.79935e-05 
+p10                       =    0.0334061   +/-   2.86797e-05 
+p11                       =    0.0328598   +/-   4.08772e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_orig_Complete_Bkg_AGL_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      2665.44
+NDf                       =           55
+Edm                       =  3.22202e-06
+NCalls                    =          542
+p0                        =   0.00669455   +/-   2.64077e-05 
+p1                        =    0.0169582   +/-   2.78825e-05 
+p2                        =    0.0565816   +/-   7.18761e-05 
+p3                        =    0.0644323   +/-   7.53951e-05 
+p4                        =    0.0642449   +/-   7.04944e-05 
+p5                        =    0.0600339   +/-   6.62773e-05 
+p6                        =      0.05952   +/-   6.01916e-05 
+p7                        =    0.0590715   +/-   5.29101e-05 
+p8                        =    0.0592973   +/-   4.7727e-05  
+p9                        =    0.0595333   +/-   3.97674e-05 
+p10                       =    0.0601562   +/-   3.9858e-05  
+p11                       =    0.0603044   +/-   4.25455e-05 
+p12                       =    0.0604531   +/-   3.75323e-05 
+p13                       =    0.0600302   +/-   3.85403e-05 
+p14                       =    0.0597358   +/-   5.51883e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_orig_Complete_NoBkg_TOF_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =       83.798
+NDf                       =           51
+Edm                       =  9.41844e-07
+NCalls                    =          488
+p0                        =   -0.0002947   +/-   2.57086e-05 
+p1                        =  0.000655553   +/-   6.77894e-06 
+p2                        =   0.00127832   +/-   9.88349e-06 
+p3                        =   0.00548467   +/-   2.21545e-05 
+p4                        =   0.00579462   +/-   2.1651e-05  
+p5                        =    0.0057014   +/-   1.88466e-05 
+p6                        =   0.00574958   +/-   1.65881e-05 
+p7                        =   0.00591409   +/-   1.51297e-05 
+p8                        =   0.00602639   +/-   1.26226e-05 
+p9                        =   0.00587938   +/-   1.24862e-05 
+p10                       =    0.0058495   +/-   1.32378e-05 
+p11                       =   0.00578987   +/-   1.15458e-05 
+p12                       =   0.00553871   +/-   1.16856e-05 
+p13                       =   0.00524914   +/-   1.6389e-05  
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_orig_Complete_NoBkg_NaF_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      1351.91
+NDf                       =           44
+Edm                       =  3.27302e-06
+NCalls                    =          473
+p0                        =   0.00163767   +/-   2.10519e-05 
+p1                        =  0.000174327   +/-   3.90508e-05 
+p2                        =   0.00792073   +/-   2.12676e-05 
+p3                        =    0.0255088   +/-   5.00348e-05 
+p4                        =    0.0317121   +/-   5.15784e-05 
+p5                        =    0.0330303   +/-   3.70865e-05 
+p6                        =    0.0342768   +/-   3.02191e-05 
+p7                        =    0.0342934   +/-   3.07228e-05 
+p8                        =     0.034247   +/-   3.21949e-05 
+p9                        =    0.0341819   +/-   2.81559e-05 
+p10                       =    0.0336616   +/-   2.88104e-05 
+p11                       =    0.0331095   +/-   4.10497e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_orig_Complete_NoBkg_AGL_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =       2752.3
+NDf                       =           55
+Edm                       =  2.68847e-06
+NCalls                    =          542
+p0                        =   0.00667654   +/-   2.63691e-05 
+p1                        =    0.0169261   +/-   2.78457e-05 
+p2                        =    0.0563816   +/-   7.17002e-05 
+p3                        =    0.0638195   +/-   7.50433e-05 
+p4                        =    0.0624689   +/-   6.94107e-05 
+p5                        =    0.0558581   +/-   6.40674e-05 
+p6                        =    0.0532826   +/-   5.66527e-05 
+p7                        =    0.0495387   +/-   4.80715e-05 
+p8                        =    0.0452952   +/-   4.11519e-05 
+p9                        =    0.0395915   +/-   3.17739e-05 
+p10                       =    0.0310761   +/-   2.91561e-05 
+p11                       =    0.0293814   +/-   2.98072e-05 
+p12                       =    0.0286532   +/-   2.57107e-05 
+p13                       =    0.0276677   +/-   2.61287e-05 
+p14                       =        0.027   +/-   3.71261e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_orig_Complete_StrictBkg_TOF_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      88.8286
+NDf                       =           51
+Edm                       =  1.90217e-06
+NCalls                    =          486
+p0                        = -0.000274792   +/-   2.52312e-05 
+p1                        =  0.000629193   +/-   6.65747e-06 
+p2                        =    0.0012236   +/-   9.70673e-06 
+p3                        =   0.00518164   +/-   2.16192e-05 
+p4                        =   0.00540022   +/-   2.0805e-05  
+p5                        =   0.00509846   +/-   1.76774e-05 
+p6                        =   0.00477642   +/-   1.49785e-05 
+p7                        =   0.00443483   +/-   1.28834e-05 
+p8                        =   0.00384236   +/-   9.85251e-06 
+p9                        =   0.00283108   +/-   8.83767e-06 
+p10                       =   0.00263236   +/-   8.91231e-06 
+p11                       =   0.00251051   +/-   7.55036e-06 
+p12                       =   0.00228898   +/-   7.50704e-06 
+p13                       =   0.00207395   +/-   1.03358e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_orig_Complete_StrictBkg_NaF_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      1138.57
+NDf                       =           44
+Edm                       =  1.47773e-05
+NCalls                    =          471
+p0                        =   0.00143106   +/-   1.94154e-05 
+p1                        =  0.000209947   +/-   3.58932e-05 
+p2                        =   0.00663679   +/-   1.95509e-05 
+p3                        =    0.0212679   +/-   4.57979e-05 
+p4                        =    0.0256466   +/-   4.61438e-05 
+p5                        =    0.0258768   +/-   3.25893e-05 
+p6                        =    0.0235291   +/-   2.46477e-05 
+p7                        =    0.0186862   +/-   2.30034e-05 
+p8                        =    0.0177911   +/-   2.32916e-05 
+p9                        =    0.0174122   +/-   2.00473e-05 
+p10                       =    0.0169306   +/-   2.042e-05   
+p11                       =    0.0165595   +/-   2.90392e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_orig_Complete_StrictBkg_AGL_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      2724.23
+NDf                       =           55
+Edm                       =  2.96107e-06
+NCalls                    =          542
+p0                        =   0.00673252   +/-   2.64806e-05 
+p1                        =    0.0170345   +/-   2.79585e-05 
+p2                        =    0.0567516   +/-   7.19802e-05 
+p3                        =    0.0644069   +/-   7.53881e-05 
+p4                        =    0.0642109   +/-   7.04524e-05 
+p5                        =    0.0599332   +/-   6.61999e-05 
+p6                        =    0.0593713   +/-   6.00782e-05 
+p7                        =    0.0588821   +/-   5.27819e-05 
+p8                        =    0.0590381   +/-   4.7583e-05  
+p9                        =     0.059349   +/-   3.96571e-05 
+p10                       =    0.0599178   +/-   3.97255e-05 
+p11                       =     0.060197   +/-   4.24432e-05 
+p12                       =    0.0604114   +/-   3.74878e-05 
+p13                       =    0.0602136   +/-   3.85573e-05 
+p14                       =    0.0600066   +/-   5.52677e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_orig_Loose_Bkg_TOF_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =        70.15
+NDf                       =           51
+Edm                       =  3.29943e-06
+NCalls                    =          374
+p0                        =   0.00171958   +/-   6.90619e-05 
+p1                        =   0.00188626   +/-   1.98048e-05 
+p2                        =   0.00600484   +/-   2.79085e-05 
+p3                        =   0.00767092   +/-   2.99937e-05 
+p4                        =   0.00764099   +/-   2.47743e-05 
+p5                        =   0.00756767   +/-   2.15675e-05 
+p6                        =   0.00752521   +/-   1.87344e-05 
+p7                        =   0.00751501   +/-   1.62755e-05 
+p8                        =   0.00757854   +/-   1.34349e-05 
+p9                        =   0.00764934   +/-   1.3779e-05  
+p10                       =   0.00770997   +/-   1.48759e-05 
+p11                       =   0.00774126   +/-   1.27693e-05 
+p12                       =   0.00772942   +/-   1.37852e-05 
+p13                       =   0.00769372   +/-   1.94592e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_orig_Loose_Bkg_NaF_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      1208.86
+NDf                       =           44
+Edm                       =  6.03017e-08
+NCalls                    =          475
+p0                        =   0.00347328   +/-   3.71775e-05 
+p1                        =   0.00181966   +/-   6.47653e-05 
+p2                        =    0.0105001   +/-   2.89961e-05 
+p3                        =    0.0299395   +/-   5.598e-05   
+p4                        =    0.0361337   +/-   5.50365e-05 
+p5                        =    0.0377246   +/-   3.95584e-05 
+p6                        =    0.0382849   +/-   3.17354e-05 
+p7                        =    0.0356716   +/-   3.143e-05   
+p8                        =    0.0354989   +/-   3.27204e-05 
+p9                        =     0.035192   +/-   2.85102e-05 
+p10                       =    0.0344631   +/-   2.91276e-05 
+p11                       =    0.0338179   +/-   4.14784e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_orig_Loose_Bkg_AGL_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      2715.68
+NDf                       =           55
+Edm                       =  3.69946e-06
+NCalls                    =          542
+p0                        =   0.00673219   +/-   2.64932e-05 
+p1                        =    0.0170445   +/-   2.79809e-05 
+p2                        =    0.0567876   +/-   7.20143e-05 
+p3                        =    0.0645053   +/-   7.54555e-05 
+p4                        =    0.0643208   +/-   7.0538e-05  
+p5                        =     0.060125   +/-   6.63289e-05 
+p6                        =    0.0596167   +/-   6.0249e-05  
+p7                        =    0.0592177   +/-   5.298e-05   
+p8                        =    0.0594732   +/-   4.78258e-05 
+p9                        =    0.0599706   +/-   3.99376e-05 
+p10                       =    0.0610536   +/-   4.01366e-05 
+p11                       =    0.0612314   +/-   4.28771e-05 
+p12                       =    0.0614148   +/-   3.78405e-05 
+p13                       =    0.0610431   +/-   3.88698e-05 
+p14                       =    0.0607863   +/-   5.56741e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_orig_Loose_NoBkg_TOF_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      74.6849
+NDf                       =           51
+Edm                       =  2.05899e-07
+NCalls                    =          378
+p0                        =   0.00172401   +/-   6.91308e-05 
+p1                        =   0.00188682   +/-   1.98049e-05 
+p2                        =   0.00601669   +/-   2.78937e-05 
+p3                        =   0.00769564   +/-   3.00561e-05 
+p4                        =   0.00766867   +/-   2.48173e-05 
+p5                        =   0.00760192   +/-   2.15755e-05 
+p6                        =   0.00757224   +/-   1.88465e-05 
+p7                        =   0.00757708   +/-   1.64405e-05 
+p8                        =   0.00766679   +/-   1.36935e-05 
+p9                        =   0.00780681   +/-   1.4028e-05  
+p10                       =    0.0078493   +/-   1.51901e-05 
+p11                       =   0.00787502   +/-   1.29965e-05 
+p12                       =   0.00784244   +/-   1.37739e-05 
+p13                       =    0.0078037   +/-   1.95752e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_orig_Loose_NoBkg_NaF_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      1221.54
+NDf                       =           44
+Edm                       =  5.96413e-08
+NCalls                    =          475
+p0                        =   0.00347409   +/-   3.72514e-05 
+p1                        =   0.00180927   +/-   6.4896e-05  
+p2                        =     0.010519   +/-   2.90483e-05 
+p3                        =    0.0300689   +/-   5.61384e-05 
+p4                        =    0.0363624   +/-   5.52563e-05 
+p5                        =    0.0379746   +/-   3.9734e-05  
+p6                        =    0.0386498   +/-   3.1932e-05  
+p7                        =    0.0362074   +/-   3.16942e-05 
+p8                        =     0.035927   +/-   3.29609e-05 
+p9                        =    0.0355656   +/-   2.86792e-05 
+p10                       =    0.0347344   +/-   2.92642e-05 
+p11                       =    0.0340812   +/-   4.16582e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_orig_Loose_NoBkg_AGL_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      2796.74
+NDf                       =           55
+Edm                       =  2.66547e-06
+NCalls                    =          542
+p0                        =   0.00671663   +/-   2.64408e-05 
+p1                        =    0.0169991   +/-   2.79169e-05 
+p2                        =    0.0565701   +/-   7.18251e-05 
+p3                        =    0.0638765   +/-   7.50936e-05 
+p4                        =    0.0625279   +/-   6.94424e-05 
+p5                        =    0.0559141   +/-   6.41019e-05 
+p6                        =    0.0533431   +/-   5.66856e-05 
+p7                        =    0.0496049   +/-   4.81059e-05 
+p8                        =    0.0453735   +/-   4.119e-05   
+p9                        =    0.0396856   +/-   3.18125e-05 
+p10                       =    0.0311607   +/-   2.91952e-05 
+p11                       =    0.0294588   +/-   2.98466e-05 
+p12                       =    0.0287272   +/-   2.57436e-05 
+p13                       =    0.0277359   +/-   2.61614e-05 
+p14                       =    0.0270667   +/-   3.71728e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_orig_Loose_StrictBkg_TOF_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      68.0495
+NDf                       =           51
+Edm                       =  9.75379e-06
+NCalls                    =          372
+p0                        =   0.00167705   +/-   6.81136e-05 
+p1                        =   0.00183101   +/-   1.95581e-05 
+p2                        =   0.00581509   +/-   2.77295e-05 
+p3                        =   0.00721618   +/-   2.92043e-05 
+p4                        =   0.00708793   +/-   2.39584e-05 
+p5                        =   0.00671466   +/-   2.01723e-05 
+p6                        =   0.00619595   +/-   1.67235e-05 
+p7                        =   0.00555912   +/-   1.33914e-05 
+p8                        =   0.00476676   +/-   1.03874e-05 
+p9                        =   0.00354451   +/-   9.56144e-06 
+p10                       =   0.00328889   +/-   9.61049e-06 
+p11                       =   0.00314414   +/-   7.58778e-06 
+p12                       =   0.00291523   +/-   7.99471e-06 
+p13                       =   0.00272144   +/-   1.12482e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_orig_Loose_StrictBkg_NaF_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      1057.68
+NDf                       =           44
+Edm                       =  8.71721e-07
+NCalls                    =          472
+p0                        =   0.00299951   +/-   3.42775e-05 
+p1                        =   0.00162696   +/-   5.95514e-05 
+p2                        =   0.00877562   +/-   2.66111e-05 
+p3                        =    0.0249529   +/-   5.12286e-05 
+p4                        =    0.0292566   +/-   4.92958e-05 
+p5                        =    0.0295338   +/-   3.48135e-05 
+p6                        =    0.0263454   +/-   2.59717e-05 
+p7                        =    0.0196866   +/-   2.36913e-05 
+p8                        =     0.018625   +/-   2.38177e-05 
+p9                        =    0.0180828   +/-   2.04001e-05 
+p10                       =    0.0174496   +/-   2.07277e-05 
+p11                       =    0.0170205   +/-   2.94482e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_orig_Loose_StrictBkg_AGL_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      2828.95
+NDf                       =           55
+Edm                       =  1.58798e-06
+NCalls                    =          543
+p0                        =   0.00669403   +/-   2.69186e-05 
+p1                        =    0.0172452   +/-   2.86837e-05 
+p2                        =    0.0567563   +/-   7.22204e-05 
+p3                        =    0.0643153   +/-   7.54674e-05 
+p4                        =    0.0641218   +/-   7.04305e-05 
+p5                        =    0.0598232   +/-   6.61587e-05 
+p6                        =    0.0592859   +/-   6.00532e-05 
+p7                        =    0.0587439   +/-   5.27463e-05 
+p8                        =    0.0588747   +/-   4.75238e-05 
+p9                        =    0.0589451   +/-   3.95425e-05 
+p10                       =    0.0591424   +/-   3.95214e-05 
+p11                       =    0.0593815   +/-   4.22041e-05 
+p12                       =    0.0595513   +/-   3.73142e-05 
+p13                       =    0.0592911   +/-   3.84714e-05 
+p14                       =    0.0590159   +/-   5.73385e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_reweight_Complete_Bkg_TOF_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      81.6183
+NDf                       =           51
+Edm                       =  1.66677e-05
+NCalls                    =          458
+p0                        =  -0.00028288   +/-   2.57619e-05 
+p1                        =  0.000655616   +/-   6.78602e-06 
+p2                        =   0.00127935   +/-   9.89492e-06 
+p3                        =   0.00546863   +/-   2.21192e-05 
+p4                        =     0.005775   +/-   2.1601e-05  
+p5                        =   0.00567713   +/-   1.8796e-05  
+p6                        =   0.00571466   +/-   1.65308e-05 
+p7                        =   0.00586662   +/-   1.50557e-05 
+p8                        =   0.00596155   +/-   1.25466e-05 
+p9                        =   0.00578438   +/-   1.23833e-05 
+p10                       =   0.00577768   +/-   1.31529e-05 
+p11                       =   0.00572248   +/-   1.15016e-05 
+p12                       =    0.0054846   +/-   1.16863e-05 
+p13                       =   0.00520808   +/-   1.70819e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_reweight_Complete_Bkg_NaF_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      1357.72
+NDf                       =           44
+Edm                       =  2.05024e-06
+NCalls                    =          474
+p0                        =   0.00159282   +/-   2.08898e-05 
+p1                        =   0.00010538   +/-   3.87579e-05 
+p2                        =   0.00782979   +/-   2.09087e-05 
+p3                        =    0.0253025   +/-   4.95557e-05 
+p4                        =    0.0315036   +/-   5.13882e-05 
+p5                        =     0.032816   +/-   3.69322e-05 
+p6                        =     0.033952   +/-   3.00615e-05 
+p7                        =    0.0337836   +/-   3.04948e-05 
+p8                        =    0.0338449   +/-   3.20008e-05 
+p9                        =    0.0338307   +/-   2.80703e-05 
+p10                       =     0.033409   +/-   2.8842e-05  
+p11                       =    0.0328743   +/-   4.27882e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_reweight_Complete_Bkg_AGL_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      2818.52
+NDf                       =           55
+Edm                       =  2.46079e-06
+NCalls                    =          543
+p0                        =   0.00669629   +/-   2.69256e-05 
+p1                        =    0.0172493   +/-   2.86914e-05 
+p2                        =    0.0567893   +/-   7.2252e-05  
+p3                        =     0.064409   +/-   7.55318e-05 
+p4                        =    0.0642281   +/-   7.05135e-05 
+p5                        =    0.0600107   +/-   6.62851e-05 
+p6                        =    0.0595267   +/-   6.02203e-05 
+p7                        =    0.0590682   +/-   5.29383e-05 
+p8                        =    0.0592965   +/-   4.77568e-05 
+p9                        =    0.0595321   +/-   3.9806e-05  
+p10                       =    0.0601544   +/-   3.98939e-05 
+p11                       =    0.0603053   +/-   4.25947e-05 
+p12                       =     0.060449   +/-   3.76332e-05 
+p13                       =    0.0600359   +/-   3.87564e-05 
+p14                       =    0.0597176   +/-   5.77245e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_reweight_Complete_NoBkg_TOF_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      84.8999
+NDf                       =           51
+Edm                       =  1.73133e-05
+NCalls                    =          458
+p0                        = -0.000285888   +/-   2.5779e-05  
+p1                        =  0.000656363   +/-   6.79199e-06 
+p2                        =   0.00127969   +/-   9.89777e-06 
+p3                        =   0.00548391   +/-   2.21546e-05 
+p4                        =   0.00579481   +/-   2.16518e-05 
+p5                        =   0.00570106   +/-   1.88526e-05 
+p6                        =    0.0057486   +/-   1.65951e-05 
+p7                        =    0.0059135   +/-   1.51382e-05 
+p8                        =   0.00602678   +/-   1.26361e-05 
+p9                        =   0.00587873   +/-   1.2497e-05  
+p10                       =   0.00585044   +/-   1.32559e-05 
+p11                       =   0.00579148   +/-   1.15791e-05 
+p12                       =   0.00553875   +/-   1.17535e-05 
+p13                       =   0.00526145   +/-   1.7176e-05  
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_reweight_Complete_NoBkg_NaF_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      1388.63
+NDf                       =           44
+Edm                       =  2.17208e-06
+NCalls                    =          474
+p0                        =   0.00158807   +/-   2.09064e-05 
+p1                        =  9.14261e-05   +/-   3.87921e-05 
+p2                        =   0.00783861   +/-   2.09195e-05 
+p3                        =    0.0254089   +/-   4.96818e-05 
+p4                        =     0.031705   +/-   5.15953e-05 
+p5                        =    0.0330337   +/-   3.70962e-05 
+p6                        =     0.034275   +/-   3.02481e-05 
+p7                        =    0.0342916   +/-   3.07516e-05 
+p8                        =    0.0342481   +/-   3.22339e-05 
+p9                        =     0.034183   +/-   2.82332e-05 
+p10                       =    0.0336646   +/-   2.8974e-05  
+p11                       =    0.0331233   +/-   4.29688e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_reweight_Complete_NoBkg_AGL_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      2903.98
+NDf                       =           55
+Edm                       =  2.56712e-06
+NCalls                    =          540
+p0                        =   0.00667814   +/-   2.6886e-05  
+p1                        =    0.0172166   +/-   2.86539e-05 
+p2                        =    0.0565875   +/-   7.20735e-05 
+p3                        =    0.0637944   +/-   7.51771e-05 
+p4                        =    0.0624514   +/-   6.94283e-05 
+p5                        =    0.0558389   +/-   6.40772e-05 
+p6                        =    0.0532941   +/-   5.66863e-05 
+p7                        =    0.0495435   +/-   4.81042e-05 
+p8                        =    0.0453029   +/-   4.11854e-05 
+p9                        =    0.0396029   +/-   3.18129e-05 
+p10                       =    0.0310771   +/-   2.91856e-05 
+p11                       =    0.0293836   +/-   2.98442e-05 
+p12                       =    0.0286515   +/-   2.57813e-05 
+p13                       =    0.0276755   +/-   2.62812e-05 
+p14                       =    0.0270134   +/-   3.88598e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_reweight_Complete_StrictBkg_TOF_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      88.5843
+NDf                       =           51
+Edm                       =   2.1924e-06
+NCalls                    =          488
+p0                        = -0.000266237   +/-   2.53006e-05 
+p1                        =  0.000629955   +/-   6.67033e-06 
+p2                        =    0.0012249   +/-   9.72072e-06 
+p3                        =   0.00518097   +/-   2.16195e-05 
+p4                        =   0.00540059   +/-   2.08067e-05 
+p5                        =    0.0050985   +/-   1.76847e-05 
+p6                        =   0.00477624   +/-   1.49875e-05 
+p7                        =   0.00443546   +/-   1.28931e-05 
+p8                        =   0.00384397   +/-   9.86585e-06 
+p9                        =   0.00283085   +/-   8.84613e-06 
+p10                       =   0.00263307   +/-   8.92493e-06 
+p11                       =   0.00251094   +/-   7.57266e-06 
+p12                       =   0.00229057   +/-   7.55452e-06 
+p13                       =   0.00207664   +/-   1.08205e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_reweight_Complete_StrictBkg_NaF_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      1171.28
+NDf                       =           44
+Edm                       =  7.59474e-06
+NCalls                    =          473
+p0                        =   0.00138851   +/-   1.9283e-05  
+p1                        =  0.000138403   +/-   3.56576e-05 
+p2                        =    0.0065673   +/-   1.92289e-05 
+p3                        =     0.021186   +/-   4.54799e-05 
+p4                        =    0.0256461   +/-   4.61692e-05 
+p5                        =    0.0258847   +/-   3.26028e-05 
+p6                        =    0.0235339   +/-   2.46774e-05 
+p7                        =    0.0186866   +/-   2.30283e-05 
+p8                        =    0.0177925   +/-   2.33214e-05 
+p9                        =    0.0174126   +/-   2.01023e-05 
+p10                       =    0.0169327   +/-   2.05371e-05 
+p11                       =    0.0165756   +/-   3.04135e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_reweight_Complete_StrictBkg_AGL_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      2879.28
+NDf                       =           55
+Edm                       =  2.35144e-06
+NCalls                    =          542
+p0                        =   0.00673413   +/-   2.7e-05     
+p1                        =     0.017327   +/-   2.87697e-05 
+p2                        =    0.0569584   +/-   7.23549e-05 
+p3                        =    0.0643834   +/-   7.55244e-05 
+p4                        =    0.0641939   +/-   7.04715e-05 
+p5                        =    0.0599102   +/-   6.62078e-05 
+p6                        =    0.0593781   +/-   6.01069e-05 
+p7                        =    0.0588792   +/-   5.28103e-05 
+p8                        =    0.0590373   +/-   4.76128e-05 
+p9                        =    0.0593477   +/-   3.96954e-05 
+p10                       =    0.0599157   +/-   3.97611e-05 
+p11                       =    0.0601975   +/-   4.24922e-05 
+p12                       =    0.0604076   +/-   3.75886e-05 
+p13                       =    0.0602179   +/-   3.87724e-05 
+p14                       =    0.0599897   +/-   5.78075e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_reweight_Loose_Bkg_TOF_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      71.0437
+NDf                       =           51
+Edm                       =  1.83829e-06
+NCalls                    =          374
+p0                        =   0.00170507   +/-   6.92922e-05 
+p1                        =   0.00189463   +/-   1.99152e-05 
+p2                        =    0.0060089   +/-   2.80601e-05 
+p3                        =   0.00767068   +/-   3.00265e-05 
+p4                        =   0.00764143   +/-   2.4874e-05  
+p5                        =   0.00756709   +/-   2.15794e-05 
+p6                        =   0.00752467   +/-   1.87355e-05 
+p7                        =   0.00751483   +/-   1.63392e-05 
+p8                        =   0.00757897   +/-   1.34981e-05 
+p9                        =   0.00764904   +/-   1.38308e-05 
+p10                       =   0.00771069   +/-   1.4891e-05  
+p11                       =   0.00774229   +/-   1.26081e-05 
+p12                       =   0.00772841   +/-   1.36263e-05 
+p13                       =   0.00769154   +/-   2.02561e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_reweight_Loose_Bkg_NaF_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      1235.67
+NDf                       =           44
+Edm                       =  5.29157e-08
+NCalls                    =          473
+p0                        =   0.00341387   +/-   3.70923e-05 
+p1                        =   0.00171642   +/-   6.46073e-05 
+p2                        =    0.0104023   +/-   2.87018e-05 
+p3                        =    0.0298416   +/-   5.56907e-05 
+p4                        =    0.0361238   +/-   5.50536e-05 
+p5                        =    0.0377254   +/-   3.95709e-05 
+p6                        =    0.0382859   +/-   3.17677e-05 
+p7                        =    0.0356698   +/-   3.14597e-05 
+p8                        =    0.0355006   +/-   3.27604e-05 
+p9                        =    0.0351931   +/-   2.85887e-05 
+p10                       =    0.0344676   +/-   2.92935e-05 
+p11                       =    0.0338303   +/-   4.34153e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_reweight_Loose_Bkg_AGL_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      2870.99
+NDf                       =           55
+Edm                       =  2.67863e-06
+NCalls                    =          539
+p0                        =   0.00673379   +/-   2.70127e-05 
+p1                        =    0.0173371   +/-   2.87924e-05 
+p2                        =    0.0569949   +/-   7.23895e-05 
+p3                        =    0.0644821   +/-   7.55923e-05 
+p4                        =     0.064304   +/-   7.05572e-05 
+p5                        =    0.0601018   +/-   6.63367e-05 
+p6                        =    0.0596233   +/-   6.02776e-05 
+p7                        =    0.0592142   +/-   5.30081e-05 
+p8                        =    0.0594723   +/-   4.78555e-05 
+p9                        =    0.0599685   +/-   3.99758e-05 
+p10                       =    0.0610516   +/-   4.01726e-05 
+p11                       =    0.0612321   +/-   4.29267e-05 
+p12                       =    0.0614108   +/-   3.79423e-05 
+p13                       =    0.0610477   +/-   3.9087e-05  
+p14                       =    0.0607656   +/-   5.82307e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_reweight_Loose_NoBkg_TOF_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      75.5305
+NDf                       =           51
+Edm                       =  2.89153e-07
+NCalls                    =          374
+p0                        =   0.00170949   +/-   6.93598e-05 
+p1                        =    0.0018952   +/-   1.9906e-05  
+p2                        =   0.00602076   +/-   2.80731e-05 
+p3                        =    0.0076954   +/-   3.00647e-05 
+p4                        =    0.0076691   +/-   2.49146e-05 
+p5                        =   0.00760135   +/-   2.15096e-05 
+p6                        =   0.00757161   +/-   1.88532e-05 
+p7                        =   0.00757692   +/-   1.6497e-05  
+p8                        =   0.00766712   +/-   1.37286e-05 
+p9                        =   0.00780646   +/-   1.40974e-05 
+p10                       =    0.0078502   +/-   1.5239e-05  
+p11                       =   0.00787599   +/-   1.28239e-05 
+p12                       =    0.0078415   +/-   1.36929e-05 
+p13                       =   0.00780081   +/-   2.03704e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_reweight_Loose_NoBkg_NaF_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      1249.26
+NDf                       =           44
+Edm                       =  5.32922e-08
+NCalls                    =          475
+p0                        =   0.00341471   +/-   3.71658e-05 
+p1                        =   0.00170617   +/-   6.47372e-05 
+p2                        =    0.0104209   +/-   2.87541e-05 
+p3                        =    0.0299696   +/-   5.58465e-05 
+p4                        =    0.0363521   +/-   5.52729e-05 
+p5                        =    0.0379754   +/-   3.97464e-05 
+p6                        =    0.0386507   +/-   3.19643e-05 
+p7                        =    0.0362057   +/-   3.17243e-05 
+p8                        =    0.0359288   +/-   3.30013e-05 
+p9                        =    0.0355667   +/-   2.87582e-05 
+p10                       =    0.0347391   +/-   2.94312e-05 
+p11                       =    0.0340925   +/-   4.36032e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_reweight_Loose_NoBkg_AGL_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      2950.12
+NDf                       =           55
+Edm                       =  2.55727e-06
+NCalls                    =          540
+p0                        =   0.00671817   +/-   2.6959e-05  
+p1                        =     0.017291   +/-   2.87273e-05 
+p2                        =    0.0567756   +/-   7.21977e-05 
+p3                        =    0.0638514   +/-   7.52274e-05 
+p4                        =    0.0625103   +/-   6.946e-05   
+p5                        =    0.0558949   +/-   6.41116e-05 
+p6                        =    0.0533546   +/-   5.67192e-05 
+p7                        =    0.0496097   +/-   4.81386e-05 
+p8                        =    0.0453814   +/-   4.12235e-05 
+p9                        =    0.0396971   +/-   3.18516e-05 
+p10                       =    0.0311616   +/-   2.92247e-05 
+p11                       =    0.0294609   +/-   2.98836e-05 
+p12                       =    0.0287255   +/-   2.58144e-05 
+p13                       =    0.0277439   +/-   2.63141e-05 
+p14                       =    0.0270793   +/-   3.89076e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_reweight_Loose_StrictBkg_TOF_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =       68.251
+NDf                       =           51
+Edm                       =  5.78822e-06
+NCalls                    =          371
+p0                        =   0.00166293   +/-   6.83355e-05 
+p1                        =   0.00183912   +/-   1.96508e-05 
+p2                        =   0.00581895   +/-   2.77856e-05 
+p3                        =   0.00721606   +/-   2.92625e-05 
+p4                        =   0.00708862   +/-   2.39829e-05 
+p5                        =   0.00671472   +/-   2.01803e-05 
+p6                        =    0.0061965   +/-   1.65807e-05 
+p7                        =   0.00556037   +/-   1.34463e-05 
+p8                        =   0.00476896   +/-   1.05026e-05 
+p9                        =   0.00354445   +/-   9.65952e-06 
+p10                       =   0.00328949   +/-   9.76865e-06 
+p11                       =   0.00314443   +/-   7.51501e-06 
+p12                       =   0.00291645   +/-   7.95126e-06 
+p13                       =   0.00272298   +/-   1.19359e-05 
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_reweight_Loose_StrictBkg_NaF_BeTotal) has not been written.
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =       1082.4
+NDf                       =           44
+Edm                       =  5.24131e-06
+NCalls                    =          472
+p0                        =   0.00294948   +/-   3.42053e-05 
+p1                        =   0.00153958   +/-   5.94113e-05 
+p2                        =   0.00869303   +/-   2.63396e-05 
+p3                        =    0.0248729   +/-   5.09687e-05 
+p4                        =    0.0292547   +/-   4.93221e-05 
+p5                        =    0.0295405   +/-   3.48299e-05 
+p6                        =    0.0263526   +/-   2.60041e-05 
+p7                        =    0.0196872   +/-   2.3717e-05  
+p8                        =    0.0186266   +/-   2.38483e-05 
+p9                        =    0.0180829   +/-   2.04563e-05 
+p10                       =    0.0174528   +/-   2.08471e-05 
+p11                       =    0.0170342   +/-   3.0837e-05  
+Error in <TROOT::WriteTObject>: The current directory (Rint) is not associated with a file. The object (f_acc_reweight_Loose_StrictBkg_AGL_BeTotal) has not been written.
+Saving results to: root://eosams.cern.ch//eos/ams/user/z/zuhao/yanzx/Isotope/Bkg/BeTotal_analysis.root
+Analysis completed successfully
